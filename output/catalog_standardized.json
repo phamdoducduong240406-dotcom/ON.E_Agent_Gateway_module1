@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-09-12T17:00:17.164731+00:00",
+  "generated_at": "2026-09-12T17:07:42.508073+00:00",
   "schema_version": "2.0",
   "count": 63,
-  "metrics": {
-    "retrieval_hit_rate_top3": 0.5,
-    "intent_accuracy": 0.0,
-    "values_provenance_rate": 0.8214
-  },
+  "metrics": {},
   "products": [
     {
       "sku": "MON-27-4K-01",

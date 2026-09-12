@@ -6,8 +6,8 @@ import unittest
 from pathlib import Path
 import sys
 
-# Add parent directory to path
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+# Add src/ to path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 
 from verify import norm, verify_record, _verify_dict_fields
 

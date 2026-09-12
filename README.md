@@ -72,6 +72,20 @@ ON.E_Agent_Gateway_module1/
 │   ├── test_verify.py                     # Kiểm thử Anti-Hallucination & NFC
 │   └── test_schema.py                     # Kiểm thử Enums & FIELD_MAP
 │
+├── src/                                   # Mã nguồn lõi của Pipeline (Core Modules)
+│   ├── __init__.py                        # Package init
+│   ├── config.py                          # Cấu hình hằng số, model, paths, prompt
+│   ├── schema.py                          # Closed taxonomies, FIELD_MAP, Pydantic models
+│   ├── ingest.py                          # Step 1: Đọc & làm sạch danh mục thô
+│   ├── extract.py                         # Step 2: LLM trích xuất thông tin
+│   ├── verify.py                          # Step 3: Xác thực nguồn gốc thông tin
+│   ├── compose.py                         # Step 4: Tạo văn bản cho Agent
+│   ├── index.py                           # Step 5: Xây dựng chỉ mục vector ngữ nghĩa
+│   ├── retrieve.py                        # Step 6: Bộ máy truy xuất & sinh minh chứng
+│   ├── bundle.py                          # Thuật toán đóng gói combo sản phẩm
+│   ├── evaluate.py                        # Đo lường định lượng trên Golden Set
+│   └── mapper.py                          # Xuất định dạng chuẩn JSON-LD Schema.org
+│
 ├── data/                                  # Dữ liệu đầu vào & bộ nhớ đệm
 │   ├── catalog_raw.json                   # 63 sản phẩm mẫu (Màn hình, Laptop, Phụ kiện)
 │   ├── golden_queries.json                # 16 câu truy vấn đánh giá đa kịch bản
@@ -84,19 +98,8 @@ ON.E_Agent_Gateway_module1/
 │   ├── index.npy                          # Ma trận vector nhúng BGE-M3 (258 KB)
 │   └── index.meta.json                    # Siêu dữ liệu vector index
 │
-├── config.py                              # Cấu hình hằng số, model, paths, prompt
-├── schema.py                              # Closed taxonomies, FIELD_MAP, Pydantic models
-├── ingest.py                              # Step 1: Đọc & làm sạch danh mục thô
-├── extract.py                             # Step 2: LLM trích xuất thông tin
-├── verify.py                              # Step 3: Xác thực nguồn gốc thông tin
-├── compose.py                             # Step 4: Tạo văn bản cho Agent
-├── index.py                               # Step 5: Xây dựng chỉ mục vector ngữ nghĩa
-├── retrieve.py                            # Step 6: Bộ máy truy xuất & sinh minh chứng
-├── bundle.py                              # Thuật toán đóng gói combo sản phẩm
-├── evaluate.py                            # Đo lường định lượng trên Golden Set
-├── mapper.py                              # Xuất định dạng chuẩn JSON-LD Schema.org
-├── run_pipeline.py                        # Điều phối toàn bộ pipeline khép kín
-├── demo.py                                # Kịch bản trình diễn tương tác với Giám Khảo
+├── run_pipeline.py                        # Điều phối toàn bộ pipeline khép kín (Entrypoint)
+├── demo.py                                # Kịch bản trình diễn tương tác với Giám Khảo (Demo)
 │
 ├── requirements.txt                       # Thư viện phụ thuộc
 ├── .env.example                           # File mẫu biến môi trường

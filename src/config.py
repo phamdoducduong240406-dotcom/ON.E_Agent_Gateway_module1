@@ -10,7 +10,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ── Paths ──────────────────────────────────────────────────────────────
-BASE_DIR = Path(__file__).resolve().parent
+# config.py lives in src/, so go up one level to reach project root
+BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
 CACHE_DIR = DATA_DIR / "cache"
 OUTPUT_DIR = BASE_DIR / "output"

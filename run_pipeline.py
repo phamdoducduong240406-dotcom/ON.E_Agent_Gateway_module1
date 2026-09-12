@@ -16,8 +16,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-# Add module1 to path
-sys.path.insert(0, str(Path(__file__).resolve().parent))
+# Add src/ to path — all library modules live there
+sys.path.insert(0, str(Path(__file__).resolve().parent / "src"))
 if sys.platform == "win32" and hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 

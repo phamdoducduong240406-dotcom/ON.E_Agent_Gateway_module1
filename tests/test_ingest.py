@@ -6,8 +6,8 @@ import unittest
 from pathlib import Path
 import sys
 
-# Add parent directory to path
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+# Add src/ to path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 
 from config import CATALOG_RAW_PATH
 from ingest import load_catalog, normalize_record, ingest
