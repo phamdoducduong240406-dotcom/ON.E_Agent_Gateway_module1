@@ -1,0 +1,398 @@
+{
+  "metrics": {
+    "retrieval_hit_rate_top3": 0.5,
+    "intent_accuracy": 0.0,
+    "values_provenance_rate": 0.8214
+  },
+  "results": [
+    {
+      "query": "màn hình 144Hz",
+      "test_group": "Thông số đơn: extraction có lấy được refresh_rate",
+      "expected_top3": [
+        "MON-27-4K-01",
+        "MON-27-OLED-13",
+        "MON-27-4K-19"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-34-UW-05",
+          "score": 0.6069
+        },
+        {
+          "sku": "LAP-ASUS-14",
+          "score": 0.5927
+        },
+        {
+          "sku": "MON-32-4K-15",
+          "score": 0.5832
+        }
+      ],
+      "hit": false
+    },
+    {
+      "query": "màn hình tấm nền IPS 4K",
+      "test_group": "Thông số đơn: panel_type + resolution",
+      "expected_top3": [
+        "MON-27-4K-01",
+        "MON-32-4K-03",
+        "MON-27-NANO-26"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-27-4K-01",
+          "score": 0.5651
+        },
+        {
+          "sku": "MON-32-4K-03",
+          "score": 0.5574
+        },
+        {
+          "sku": "MON-43-4K-20",
+          "score": 0.5469
+        }
+      ],
+      "hit": true
+    },
+    {
+      "query": "monitor OLED tần số quét cao",
+      "test_group": "Thông số đơn: panel_type OLED + refresh_rate",
+      "expected_top3": [
+        "MON-27-OLED-13",
+        "MON-34-OLED-28",
+        "MON-16-OLED-22"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-27-OLED-13",
+          "score": 0.5961
+        },
+        {
+          "sku": "MON-34-OLED-28",
+          "score": 0.5877
+        },
+        {
+          "sku": "LAP-ASUS-14",
+          "score": 0.5723
+        }
+      ],
+      "hit": true
+    },
+    {
+      "query": "màn 4K cắm USB-C sạc luôn laptop",
+      "test_group": "Thông số kết hợp: resolution + ports USB-C PD",
+      "expected_top3": [
+        "MON-27-4K-01",
+        "MON-32-4K-03",
+        "MON-27-NANO-26"
+      ],
+      "actual_top3": [
+        {
+          "sku": "ACC-ADAPTER-01",
+          "score": 0.5996
+        },
+        {
+          "sku": "ACC-WEBCAM-01",
+          "score": 0.5631
+        },
+        {
+          "sku": "ACC-DOCK-02",
+          "score": 0.5575
+        }
+      ],
+      "hit": false
+    },
+    {
+      "query": "màn hình 27 inch QHD tần số quét trên 100Hz có DisplayPort",
+      "test_group": "Thông số kết hợp: screen_size + resolution + refresh_rate + ports",
+      "expected_top3": [
+        "MON-27-QHD-02",
+        "MON-27-QHD-18",
+        "MON-27-GAME-24"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-27-QHD-02",
+          "score": 0.6876
+        },
+        {
+          "sku": "MON-27-QHD-18",
+          "score": 0.682
+        },
+        {
+          "sku": "MON-27-4K-19",
+          "score": 0.6615
+        }
+      ],
+      "hit": true
+    },
+    {
+      "query": "màn hình cong ultrawide cho đa nhiệm có USB-C và loa tích hợp",
+      "test_group": "Thông số kết hợp: curved + ultrawide + ports + features",
+      "expected_top3": [
+        "MON-34-UW-05",
+        "MON-49-SUW-07",
+        "MON-34-OLED-28"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-34-UW-05",
+          "score": 0.6007
+        },
+        {
+          "sku": "MON-49-SUW-07",
+          "score": 0.5818
+        },
+        {
+          "sku": "MON-34-OLED-28",
+          "score": 0.5622
+        }
+      ],
+      "hit": true
+    },
+    {
+      "query": "màn hình dùng được với MacBook Pro 14",
+      "test_group": "Tương thích: bảng relations, cần tìm qua compatible_with",
+      "expected_top3": [
+        "MON-27-4K-01",
+        "MON-32-4K-03",
+        "MON-27-5K-11"
+      ],
+      "actual_top3": [
+        {
+          "sku": "LAP-MBP-14",
+          "score": 0.6958
+        },
+        {
+          "sku": "LAP-MBP-16",
+          "score": 0.6348
+        },
+        {
+          "sku": "LAP-MBA-15",
+          "score": 0.6037
+        }
+      ],
+      "hit": false
+    },
+    {
+      "query": "phụ kiện kết nối cho MacBook Air 13",
+      "test_group": "Tương thích: bảng relations cho phụ kiện",
+      "expected_top3": [
+        "ACC-DOCK-01",
+        "ACC-DOCK-02",
+        "ACC-CABLE-01"
+      ],
+      "actual_top3": [
+        {
+          "sku": "LAP-MBA-13",
+          "score": 0.602
+        },
+        {
+          "sku": "LAP-MBA-15",
+          "score": 0.5732
+        },
+        {
+          "sku": "LAP-MBP-16",
+          "score": 0.5406
+        }
+      ],
+      "hit": false
+    },
+    {
+      "query": "màn hình bảo hành trên 2 năm",
+      "test_group": "Chính sách: warranty_months >= 24 phải vào embedding",
+      "expected_top3": [
+        "MON-27-4K-01",
+        "MON-32-4K-03",
+        "MON-34-UW-05"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-27-4K-08",
+          "score": 0.6168
+        },
+        {
+          "sku": "MON-27-GAME-24",
+          "score": 0.5943
+        },
+        {
+          "sku": "ACC-PRIVACY-01",
+          "score": 0.5872
+        }
+      ],
+      "hit": false
+    },
+    {
+      "query": "màn hình đổi trả 30 ngày không cần lý do",
+      "test_group": "Chính sách: return_days + warranty_scope",
+      "expected_top3": [
+        "MON-32-4K-03",
+        "MON-49-SUW-07",
+        "MON-27-5K-11"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-27-4K-08",
+          "score": 0.5421
+        },
+        {
+          "sku": "LAP-SURFACE-15",
+          "score": 0.5416
+        },
+        {
+          "sku": "ACC-LIGHT-01",
+          "score": 0.5288
+        }
+      ],
+      "hit": false
+    },
+    {
+      "query": "monitor gaming dưới 1000 đô",
+      "test_group": "Ràng buộc giá: giá phải có trong agent_text, budget hard filter",
+      "expected_top3": [
+        "MON-27-QHD-02",
+        "MON-27-FHD-06",
+        "MON-24-FHD-10"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-27-QHD-02",
+          "score": 0.6282
+        },
+        {
+          "sku": "LAP-ASUS-16",
+          "score": 0.6096
+        },
+        {
+          "sku": "LAP-ACER-15",
+          "score": 0.5858
+        }
+      ],
+      "hit": true
+    },
+    {
+      "query": "màn hình đồ hoạ dưới 1000 AUD với độ chính xác màu cao",
+      "test_group": "Ràng buộc giá: price + color accuracy",
+      "expected_top3": [
+        "MON-32-QHD-09",
+        "MON-24-PRO-27",
+        "MON-32-4K-03"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-24-PRO-27",
+          "score": 0.5904
+        },
+        {
+          "sku": "MON-32-4K-03",
+          "score": 0.5851
+        },
+        {
+          "sku": "MON-21-FHD-17",
+          "score": 0.5759
+        }
+      ],
+      "hit": true
+    },
+    {
+      "query": "cheap second screen for spreadsheets",
+      "test_group": "Đa ngôn ngữ EN: embedding model xử lý cross-lingual VI/EN",
+      "expected_top3": [
+        "MON-24-FHD-04",
+        "MON-21-FHD-17",
+        "MON-24-FHD-10"
+      ],
+      "actual_top3": [
+        {
+          "sku": "ACC-PRIVACY-01",
+          "score": 0.524
+        },
+        {
+          "sku": "LAP-HP-14",
+          "score": 0.5154
+        },
+        {
+          "sku": "LAP-THINK-16",
+          "score": 0.5033
+        }
+      ],
+      "hit": false
+    },
+    {
+      "query": "best portable monitor for travel under 500 dollars",
+      "test_group": "Đa ngôn ngữ EN: English query tìm trong Vietnamese catalog + budget constraint",
+      "expected_top3": [
+        "MON-15-FHD-12",
+        "MON-16-OLED-22",
+        "MON-24-FHD-04"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-15-FHD-12",
+          "score": 0.5175
+        },
+        {
+          "sku": "MON-16-OLED-22",
+          "score": 0.5032
+        },
+        {
+          "sku": "MON-27-5K-11",
+          "score": 0.4941
+        }
+      ],
+      "hit": true
+    },
+    {
+      "query": "bộ màn hình cho designer mới vào nghề, dưới 1200 AUD",
+      "test_group": "Bundle: graphic_design outcome, budget constraint, completes_outcome items",
+      "expected_top3": [
+        "MON-32-QHD-09",
+        "MON-27-4K-01",
+        "MON-32-4K-03"
+      ],
+      "actual_top3": [
+        {
+          "sku": "MON-32-QHD-09",
+          "score": 0.5863
+        },
+        {
+          "sku": "MON-32-4K-03",
+          "score": 0.586
+        },
+        {
+          "sku": "LAP-THINK-14",
+          "score": 0.544
+        }
+      ],
+      "hit": true
+    },
+    {
+      "query": "màn hình office setup kèm phụ kiện, budget 1500 AUD",
+      "test_group": "Bundle: office_work outcome, completes_outcome expansion under budget",
+      "expected_top3": [
+        "MON-27-4K-01",
+        "MON-34-UW-05",
+        "MON-27-QHD-18"
+      ],
+      "actual_top3": [
+        {
+          "sku": "LAP-THINK-14",
+          "score": 0.6074
+        },
+        {
+          "sku": "MON-15-FHD-12",
+          "score": 0.5805
+        },
+        {
+          "sku": "LAP-THINK-16",
+          "score": 0.5804
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "summary": {
+    "total": 16,
+    "hits": 8,
+    "hit_rate_str": "8/16"
+  }
+}

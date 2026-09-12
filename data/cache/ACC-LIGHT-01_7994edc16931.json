@@ -1,0 +1,32 @@
+{
+  "connection_type": {
+    "value": "không dây",
+    "source_span": "không dây",
+    "note": null
+  },
+  "power": {
+    "value": "5W",
+    "source_span": "5W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 18,
+    "source_span": "18 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "LED, cảm biến, mạch",
+    "source_span": "LED, cảm biến, mạch",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": "rơi vỡ, vào nước, hư kẹp do mở quá rộng",
+    "source_span": "rơi vỡ, vào nước, hư kẹp do mở quá rộng",
+    "note": null
+  }
+}

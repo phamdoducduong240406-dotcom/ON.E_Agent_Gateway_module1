@@ -1,0 +1,66 @@
+{
+  "screen_size": {
+    "value": "23.8 inch",
+    "source_span": "23.8 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "IPS",
+    "source_span": "IPS",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "75Hz",
+    "source_span": "75Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "Full HD 1920x1080",
+    "source_span": "Full HD 1920x1080",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "1x HDMI 1.4",
+      "1x VGA",
+      "1x cổng audio out"
+    ],
+    "source_span": "1x HDMI 1.4, 1x VGA, 1x cổng audio out",
+    "note": null
+  },
+  "power": {
+    "value": "22W",
+    "source_span": "22W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi kỹ thuật nhà sản xuất",
+    "source_span": "lỗi kỹ thuật nhà sản xuất",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "hết hạn bảo hành"
+    ],
+    "source_span": "rơi vỡ, vào nước, hết hạn bảo hành",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "energy_efficiency",
+      "source_span": "tiết kiệm năng lượng"
+    }
+  ]
+}

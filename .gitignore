@@ -1,0 +1,25 @@
+# Environment variables — MUST NEVER BE COMMITTED
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+env/
+venv/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Operating System
+.DS_Store
+Thumbs.db

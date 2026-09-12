@@ -1,0 +1,65 @@
+{
+  "screen_size": {
+    "value": "14 inch",
+    "source_span": "14 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "OLED",
+    "source_span": "OLED",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "120Hz",
+    "source_span": "120Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "2.8K 2880x1800",
+    "source_span": "2.8K OLED 2880x1800",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x Thunderbolt 4",
+      "2x USB-A 3.2",
+      "1x HDMI 2.1"
+    ],
+    "source_span": "2x Thunderbolt 4, 2x USB-A 3.2, 1x HDMI 2.1",
+    "note": null
+  },
+  "power": {
+    "value": "57Wh",
+    "source_span": "57Wh",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 36,
+    "source_span": "36 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "toàn bộ phần cứng, hỗ trợ phần mềm cơ bản",
+    "source_span": "toàn bộ phần cứng, hỗ trợ phần mềm cơ bản",
+    "note": null
+  },
+  "return_days": {
+    "value": 30,
+    "source_span": "30 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ ngoài phạm vi MIL-STD",
+      "vào nước"
+    ],
+    "source_span": "rơi vỡ ngoài phạm vi MIL-STD, vào nước",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 36 tháng"
+    }
+  ]
+}

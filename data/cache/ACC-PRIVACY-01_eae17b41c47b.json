@@ -1,0 +1,30 @@
+{
+  "screen_size": {
+    "value": "27 inch",
+    "source_span": "27 inch",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 6,
+    "source_span": "6 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi lớp film",
+    "source_span": "lỗi lớp film",
+    "note": null
+  },
+  "return_days": {
+    "value": 7,
+    "source_span": "7 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "trầy xước do sử dụng",
+      "gãy do bẻ"
+    ],
+    "source_span": "trầy xước do sử dụng, gãy do bẻ",
+    "note": null
+  }
+}

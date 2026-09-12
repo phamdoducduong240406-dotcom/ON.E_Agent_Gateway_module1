@@ -1,0 +1,23 @@
+{
+  "screen_size": {
+    "value": "24 inch",
+    "source_span": "24 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "IPS",
+    "source_span": "IPS",
+    "note": null
+  },
+  "resolution": {
+    "value": "1920x1080 FHD",
+    "source_span": "1920x1080 FHD",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 36 tháng"
+    }
+  ]
+}

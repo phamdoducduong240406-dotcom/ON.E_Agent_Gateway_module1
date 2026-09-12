@@ -1,0 +1,35 @@
+{
+  "connection_type": {
+    "value": "HDMI 2.1",
+    "source_span": "HDMI 2.1",
+    "note": null
+  },
+  "resolution": {
+    "value": [
+      "4K@120Hz",
+      "8K@60Hz"
+    ],
+    "source_span": "4K@120Hz, 8K@60Hz",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi sản xuất",
+    "source_span": "lỗi sản xuất",
+    "note": null
+  },
+  "return_days": {
+    "value": 7,
+    "source_span": "7",
+    "note": null
+  },
+  "exclusions": {
+    "value": "gập gãy, kéo đứt",
+    "source_span": "gập gãy, kéo đứt",
+    "note": null
+  }
+}

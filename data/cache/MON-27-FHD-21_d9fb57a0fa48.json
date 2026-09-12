@@ -1,0 +1,36 @@
+{
+  "screen_size": {
+    "value": "27 inch",
+    "source_span": "27 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "IPS",
+    "source_span": "IPS",
+    "note": null
+  },
+  "resolution": {
+    "value": "1920x1080 Full HD",
+    "source_span": "1920x1080 Full HD",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "hư hỏng do rơi",
+      "vào nước",
+      "tự ý can thiệp phần cứng"
+    ],
+    "source_span": "hư hỏng do rơi, vào nước, tự ý can thiệp phần cứng",
+    "note": null
+  },
+  "use_cases": {
+    "value": "Họp online",
+    "source_span": "Họp online",
+    "note": null
+  }
+}

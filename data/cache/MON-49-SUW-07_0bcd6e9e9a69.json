@@ -1,0 +1,68 @@
+{
+  "screen_size": {
+    "value": "49 inch",
+    "source_span": "49 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "VA",
+    "source_span": "VA",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "120Hz",
+    "source_span": "120Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "5120x1440",
+    "source_span": "5120x1440",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x HDMI 2.1",
+      "1x DisplayPort 2.0",
+      "2x USB-C (1 cổng PD 90W)",
+      "hub USB 3.2 x4",
+      "KVM switch"
+    ],
+    "source_span": "2x HDMI 2.1, 1x DisplayPort 2.0, 2x USB-C (1 cổng PD 90W), hub USB 3.2 x4, KVM switch",
+    "note": null
+  },
+  "power": {
+    "value": "80W",
+    "source_span": "80W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 36,
+    "source_span": "36 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "VIP on-site tại nhà. Phạm vi: toàn bộ phần cứng kể cả nguồn",
+    "source_span": "VIP on-site tại nhà. Phạm vi: toàn bộ phần cứng kể cả nguồn",
+    "note": null
+  },
+  "return_days": {
+    "value": 30,
+    "source_span": "30 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "va đập mạnh",
+      "vào nước",
+      "mở máy sửa chữa không qua trung tâm uỷ quyền"
+    ],
+    "source_span": "va đập mạnh, vào nước, mở máy sửa chữa không qua trung tâm uỷ quyền",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "note": "Inferred from 36-month warranty period."
+    }
+  ]
+}

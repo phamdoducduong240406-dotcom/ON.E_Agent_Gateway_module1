@@ -1,0 +1,64 @@
+{
+  "screen_size": {
+    "value": "32 inch",
+    "source_span": "32 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "VA",
+    "source_span": "VA",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "60Hz",
+    "source_span": "60Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "4K 3840x2160",
+    "source_span": "4K 3840x2160",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "3x HDMI 2.0 (1 cổng ARC)",
+      "1x quang học",
+      "1x USB media"
+    ],
+    "source_span": "3x HDMI 2.0 (1 cổng ARC), 1x quang học, 1x USB media",
+    "note": null
+  },
+  "power": {
+    "value": "48W",
+    "source_span": "48W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": [
+      "panel",
+      "loa",
+      "nguồn"
+    ],
+    "source_span": "panel, loa, nguồn",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "sử dụng ngoài trời"
+    ],
+    "source_span": "rơi vỡ, vào nước, sử dụng ngoài trời",
+    "note": null
+  }
+}

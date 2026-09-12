@@ -1,0 +1,27 @@
+{
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24 tháng",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước"
+    ],
+    "source_span": "rơi vỡ, vào nước",
+    "note": null
+  },
+  "use_cases": {
+    "value": [
+      "gaming"
+    ],
+    "source_span": "gaming",
+    "note": null
+  }
+}

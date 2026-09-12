@@ -1,0 +1,60 @@
+{
+  "screen_size": {
+    "value": "15.3 inch",
+    "source_span": "15.3 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "Liquid Retina",
+    "source_span": "Liquid Retina",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "60Hz",
+    "source_span": "60Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "2880x1864",
+    "source_span": "2880x1864",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x Thunderbolt 4",
+      "1x MagSafe 3",
+      "1x jack 3.5mm"
+    ],
+    "source_span": "2x Thunderbolt 4, 1x MagSafe 3, 1x jack 3.5mm",
+    "note": null
+  },
+  "power": {
+    "value": "35W",
+    "source_span": "35W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi phần cứng",
+    "source_span": "lỗi phần cứng",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "hư hỏng vật lý",
+      "vào chất lỏng",
+      "phần mềm"
+    ],
+    "source_span": "hư hỏng vật lý, vào chất lỏng, phần mềm",
+    "note": null
+  }
+}

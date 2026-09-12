@@ -1,0 +1,66 @@
+{
+  "screen_size": {
+    "value": "27 inch",
+    "source_span": "27 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "VA",
+    "source_span": "VA",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "165Hz",
+    "source_span": "165Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "2560x1440",
+    "source_span": "2560x1440",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x HDMI 2.0",
+      "1x DisplayPort 1.4"
+    ],
+    "source_span": "2x HDMI 2.0, 1x DisplayPort 1.4",
+    "note": null
+  },
+  "power": {
+    "value": "38W",
+    "source_span": "38W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi kỹ thuật và điểm chết pixel (trên 5 điểm)",
+    "source_span": "lỗi kỹ thuật và điểm chết pixel (trên 5 điểm)",
+    "note": null
+  },
+  "return_days": {
+    "value": 7,
+    "source_span": "7 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "cháy nổ do nguồn điện không ổn định",
+      "tự ý sửa chữa",
+      "hư hỏng do vận chuyển sau khi nhận hàng"
+    ],
+    "source_span": "cháy nổ do nguồn điện không ổn định, tự ý sửa chữa, hư hỏng do vận chuyển sau khi nhận hàng",
+    "note": null
+  },
+  "use_cases": {
+    "value": [
+      "gaming"
+    ],
+    "source_span": "Chiến game",
+    "note": null
+  }
+}

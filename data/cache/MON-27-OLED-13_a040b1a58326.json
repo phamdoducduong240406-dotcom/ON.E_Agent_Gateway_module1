@@ -1,0 +1,66 @@
+{
+  "screen_size": {
+    "value": "27 inch",
+    "source_span": "27 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "QD-OLED",
+    "source_span": "QD-OLED",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "144Hz",
+    "source_span": "144Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "3840x2160 4K",
+    "source_span": "3840x2160 4K",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x HDMI 2.1",
+      "1x DisplayPort 2.0",
+      "1x USB-C PD 65W"
+    ],
+    "source_span": "2x HDMI 2.1, 1x DisplayPort 2.0, 1x USB-C PD 65W",
+    "note": null
+  },
+  "power": {
+    "value": "50W",
+    "source_span": "50W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 36,
+    "source_span": "36 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "panel OLED, mạch điều khiển, nguồn",
+    "source_span": "panel OLED, mạch điều khiển, nguồn",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "tự ý tháo máy"
+    ],
+    "source_span": "rơi vỡ, vào nước, tự ý tháo máy",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 36 tháng"
+    }
+  ]
+}

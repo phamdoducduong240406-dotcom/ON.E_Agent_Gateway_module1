@@ -1,0 +1,40 @@
+{
+  "connection_type": {
+    "value": "USB-C",
+    "source_span": "USB-C",
+    "note": null
+  },
+  "resolution": {
+    "value": [
+      "4K",
+      "1080p"
+    ],
+    "source_span": "4K@30fps hoặc 1080p@60fps",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 18,
+    "source_span": "18 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "cảm biến, mic, mạch",
+    "source_span": "cảm biến, mic, mạch",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": "rơi vỡ, vào nước, trầy xước ống kính",
+    "source_span": "rơi vỡ, vào nước, trầy xước ống kính",
+    "note": null
+  },
+  "use_cases": {
+    "value": "streaming và họp online",
+    "source_span": "streaming và họp online",
+    "note": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "screen_size": {
+    "value": "16 inch",
+    "source_span": "16 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "IPS",
+    "source_span": "IPS",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "60Hz",
+    "source_span": "60Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "2560x1600",
+    "source_span": "2560x1600",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x Thunderbolt 4",
+      "1x USB-A 3.2",
+      "1x HDMI 2.0",
+      "1x microSD"
+    ],
+    "source_span": "2x Thunderbolt 4, 1x USB-A 3.2, 1x HDMI 2.0, 1x microSD",
+    "note": null
+  },
+  "power": {
+    "value": "65W",
+    "source_span": "65W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi phần cứng",
+    "source_span": "lỗi phần cứng",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "tự ý tháo máy"
+    ],
+    "source_span": "rơi vỡ, vào nước, tự ý tháo máy",
+    "note": null
+  }
+}

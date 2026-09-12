@@ -1,0 +1,33 @@
+{
+  "screen_size": {
+    "value": "14 inch",
+    "source_span": "14 inch",
+    "note": null
+  },
+  "resolution": {
+    "value": "2.8K",
+    "source_span": "2.8K",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "bút stylus bị mất"
+    ],
+    "source_span": "rơi vỡ, vào nước, bút stylus bị mất",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 24 tháng",
+      "note": "24 months warranty duration qualifies for long warranty"
+    }
+  ]
+}

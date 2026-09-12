@@ -1,0 +1,33 @@
+{
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "phần cứng",
+    "source_span": "phần cứng",
+    "note": null
+  },
+  "return_days": {
+    "value": 60,
+    "source_span": "60 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "mất bút stylus",
+      "hư hỏng do sử dụng charger không chính hãng"
+    ],
+    "source_span": "rơi vỡ, vào nước, mất bút stylus, hư hỏng do sử dụng charger không chính hãng",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "note": "Inferred from 12 months warranty"
+    }
+  ]
+}

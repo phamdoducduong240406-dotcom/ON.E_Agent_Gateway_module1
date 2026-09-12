@@ -1,0 +1,60 @@
+{
+  "screen_size": {
+    "value": "14.5 inch",
+    "source_span": "14.5 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "OLED",
+    "source_span": "OLED",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "120Hz",
+    "source_span": "120Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "3.2K 3200x2000",
+    "source_span": "3.2K 3200x2000",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x Thunderbolt 4",
+      "1x USB-C 3.2",
+      "1x microSD"
+    ],
+    "source_span": "2x Thunderbolt 4, 1x USB-C 3.2, 1x microSD",
+    "note": null
+  },
+  "power": {
+    "value": "69.5Wh",
+    "source_span": "69.5Wh",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "phần cứng",
+    "source_span": "phần cứng",
+    "note": null
+  },
+  "return_days": {
+    "value": 30,
+    "source_span": "30",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "tự nâng cấp RAM"
+    ],
+    "source_span": "rơi vỡ, vào nước, tự nâng cấp RAM",
+    "note": null
+  }
+}

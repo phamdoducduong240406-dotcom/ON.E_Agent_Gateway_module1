@@ -1,0 +1,44 @@
+{
+  "screen_size": {
+    "value": "16 inch",
+    "source_span": "16 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "OLED",
+    "source_span": "OLED",
+    "note": null
+  },
+  "resolution": {
+    "value": "3840x2400",
+    "source_span": "3840x2400",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 18,
+    "source_span": "18 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "panel OLED, pin, mạch",
+    "source_span": "panel OLED, pin, mạch",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": "burn-in sau 18 tháng, rơi vỡ, vào nước",
+    "source_span": "burn-in sau 18 tháng, rơi vỡ, vào nước",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 18 tháng",
+      "note": "18-month warranty exceeds standard 12 months."
+    }
+  ]
+}

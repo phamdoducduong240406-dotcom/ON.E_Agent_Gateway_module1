@@ -1,0 +1,24 @@
+{
+  "screen_size": {
+    "value": "43 inch",
+    "source_span": "43 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "VA",
+    "source_span": "VA",
+    "note": null
+  },
+  "resolution": {
+    "value": "3840x2160 4K",
+    "source_span": "3840x2160 4K",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 24 tháng",
+      "note": "24 months warranty indicates a long warranty value."
+    }
+  ]
+}

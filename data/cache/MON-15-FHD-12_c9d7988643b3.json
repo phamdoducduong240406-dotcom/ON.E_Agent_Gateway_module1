@@ -1,0 +1,56 @@
+{
+  "screen_size": {
+    "value": "15.6 inch",
+    "source_span": "15.6 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "IPS",
+    "source_span": "IPS",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "60Hz",
+    "source_span": "60Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "Full HD 1920x1080",
+    "source_span": "Full HD 1920x1080",
+    "note": null
+  },
+  "ports": {
+    "value": "1x USB-C (DP Alt mode + PD 15W), 1x mini-HDMI",
+    "source_span": "1x USB-C (DP Alt mode + PD 15W), 1x mini-HDMI",
+    "note": null
+  },
+  "power": {
+    "value": "8W",
+    "source_span": "8W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi panel và mạch điều khiển",
+    "source_span": "lỗi panel và mạch điều khiển",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "gập quá mạnh gây hỏng bản lề",
+      "vào nước"
+    ],
+    "source_span": "rơi vỡ, gập quá mạnh gây hỏng bản lề, vào nước",
+    "note": null
+  }
+}

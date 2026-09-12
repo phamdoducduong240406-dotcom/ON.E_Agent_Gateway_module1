@@ -1,0 +1,66 @@
+{
+  "screen_size": {
+    "value": "27 inch",
+    "source_span": "27 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "IPS",
+    "source_span": "IPS",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "60Hz",
+    "source_span": "60Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "5120x2880 (5K)",
+    "source_span": "5120x2880 (5K)",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "1x Thunderbolt 4 (PD 96W)",
+      "1x HDMI 2.1",
+      "hub USB-C x3"
+    ],
+    "source_span": "1x Thunderbolt 4 (PD 96W), 1x HDMI 2.1, hub USB-C x3",
+    "note": null
+  },
+  "power": {
+    "value": "65W",
+    "source_span": "65W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 36,
+    "source_span": "36 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "toàn bộ phần cứng, hiệu chuẩn lại miễn phí mỗi năm",
+    "source_span": "toàn bộ phần cứng, hiệu chuẩn lại miễn phí mỗi năm",
+    "note": null
+  },
+  "return_days": {
+    "value": 30,
+    "source_span": "30 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "thay đổi phần cứng không được phép"
+    ],
+    "source_span": "rơi vỡ, vào nước, thay đổi phần cứng không được phép",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 36 tháng"
+    }
+  ]
+}

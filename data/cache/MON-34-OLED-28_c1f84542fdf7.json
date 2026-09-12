@@ -1,0 +1,56 @@
+{
+  "screen_size": {
+    "value": "34 inch",
+    "source_span": "34 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "WOLED",
+    "source_span": "WOLED",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "175Hz",
+    "source_span": "175Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "3440x1440",
+    "source_span": "3440x1440",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x HDMI 2.1",
+      "1x DisplayPort 2.0",
+      "1x USB-C PD 90W"
+    ],
+    "source_span": "2x HDMI 2.1, 1x DisplayPort 2.0, 1x USB-C PD 90W",
+    "note": null
+  },
+  "power": {
+    "value": "55W",
+    "source_span": "55W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 36,
+    "source_span": "36 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "panel OLED, tất cả linh kiện",
+    "source_span": "panel OLED, tất cả linh kiện",
+    "note": null
+  },
+  "return_days": {
+    "value": 30,
+    "source_span": "30 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": "hư hỏng do người dùng gây ra",
+    "source_span": "hư hỏng do người dùng gây ra",
+    "note": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "screen_size": {
+    "value": "27 inch",
+    "source_span": "27 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "IPS",
+    "source_span": "IPS",
+    "note": null
+  },
+  "resolution": {
+    "value": "3840x2160",
+    "source_span": "3840x2160",
+    "note": null
+  }
+}

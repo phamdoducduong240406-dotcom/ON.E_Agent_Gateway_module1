@@ -1,0 +1,32 @@
+{
+  "screen_size": {
+    "value": "900x400x4mm",
+    "source_span": "900x400x4mm",
+    "note": "Extracted from dimensions acting as size descriptor"
+  },
+  "ports": {
+    "value": "USB-C",
+    "source_span": "USB-C",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 6,
+    "source_span": "6 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi sản xuất, LED (nếu có)",
+    "source_span": "lỗi sản xuất, LED (nếu có)",
+    "note": null
+  },
+  "return_days": {
+    "value": 7,
+    "source_span": "7 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": "bẩn do sử dụng, rách do cắt, phai màu",
+    "source_span": "bẩn do sử dụng, rách do cắt, phai màu",
+    "note": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "screen_size": {
+    "value": "16.2 inch",
+    "source_span": "16.2 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "Liquid Retina XDR",
+    "source_span": "Liquid Retina XDR",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "120Hz",
+    "source_span": "120Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "3456x2234",
+    "source_span": "3456x2234",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "3x Thunderbolt 5",
+      "1x HDMI 2.1",
+      "1x MagSafe 3",
+      "1x khe SD card",
+      "1x jack 3.5mm"
+    ],
+    "source_span": "3x Thunderbolt 5, 1x HDMI 2.1, 1x MagSafe 3, 1x khe SD card, 1x jack 3.5mm",
+    "note": null
+  },
+  "power": {
+    "value": "100Wh",
+    "source_span": "100Wh",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi nhà sản xuất",
+    "source_span": "lỗi nhà sản xuất",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước (nếu không có AppleCare+)",
+      "tự ý mở máy"
+    ],
+    "source_span": "rơi vỡ, vào nước (nếu không có AppleCare+), tự ý mở máy",
+    "note": null
+  }
+}

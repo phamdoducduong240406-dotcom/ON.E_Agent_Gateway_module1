@@ -1,0 +1,59 @@
+{
+  "screen_size": {
+    "value": "27 inch",
+    "source_span": "27 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "TN",
+    "source_span": "TN",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "240Hz",
+    "source_span": "240Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "1920x1080 Full HD",
+    "source_span": "1920x1080 Full HD",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x HDMI 2.0",
+      "1x DisplayPort 1.4"
+    ],
+    "source_span": "2x HDMI 2.0, 1x DisplayPort 1.4",
+    "note": null
+  },
+  "power": {
+    "value": "35W",
+    "source_span": "35W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 18,
+    "source_span": "18 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi panel, lỗi mạch điều khiển",
+    "source_span": "lỗi panel, lỗi mạch điều khiển",
+    "note": null
+  },
+  "return_days": {
+    "value": 7,
+    "source_span": "7 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "burn-in do dùng sai",
+      "cháy nguồn",
+      "rơi vỡ"
+    ],
+    "source_span": "burn-in do dùng sai, cháy nguồn, rơi vỡ",
+    "note": null
+  }
+}

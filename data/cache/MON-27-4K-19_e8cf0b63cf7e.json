@@ -1,0 +1,63 @@
+{
+  "screen_size": {
+    "value": "27 inch",
+    "source_span": "27 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "IPS",
+    "source_span": "IPS",
+    "note": null
+  },
+  "resolution": {
+    "value": "3840x2160",
+    "source_span": "3840x2160",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x HDMI 2.1",
+      "1x DP 2.0",
+      "1x USB-C",
+      "hub USB 3.2 x3"
+    ],
+    "source_span": "2x HDMI 2.1, 1x DP 2.0, 1x USB-C, hub USB 3.2 x3",
+    "note": null
+  },
+  "power": {
+    "value": "55W",
+    "source_span": "55W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "panel, nguồn, mạch điều khiển",
+    "source_span": "panel, nguồn, mạch điều khiển",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": "burn-in do sử dụng sai, rơi vỡ, vào nước, tự tháo máy",
+    "source_span": "burn-in do sử dụng sai, rơi vỡ, vào nước, tự tháo máy",
+    "note": null
+  },
+  "use_cases": {
+    "value": "gaming",
+    "source_span": "Gaming",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 24 tháng"
+    }
+  ]
+}

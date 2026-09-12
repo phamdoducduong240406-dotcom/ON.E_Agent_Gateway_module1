@@ -1,0 +1,42 @@
+{
+  "ports": {
+    "value": [
+      "1x USB-C PD 100W passthrough",
+      "2x USB-A 3.0",
+      "1x HDMI 4K@30Hz",
+      "1x SD card",
+      "1x microSD",
+      "1x RJ45 Gigabit"
+    ],
+    "source_span": "1x USB-C PD 100W passthrough, 2x USB-A 3.0, 1x HDMI 4K@30Hz, 1x SD card, 1x microSD, 1x RJ45 Gigabit",
+    "note": null
+  },
+  "power": {
+    "value": "5W",
+    "source_span": "5W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi nhà sản xuất",
+    "source_span": "lỗi nhà sản xuất",
+    "note": null
+  },
+  "return_days": {
+    "value": 7,
+    "source_span": "7",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "hư cổng do cắm rút mạnh",
+      "rơi vỡ"
+    ],
+    "source_span": "hư cổng do cắm rút mạnh, rơi vỡ",
+    "note": null
+  }
+}

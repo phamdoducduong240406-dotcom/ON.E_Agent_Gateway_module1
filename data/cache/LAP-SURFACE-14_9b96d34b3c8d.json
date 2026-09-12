@@ -1,0 +1,59 @@
+{
+  "screen_size": {
+    "value": "13.8 inch",
+    "source_span": "13.8 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "PixelSense Flow",
+    "source_span": "PixelSense Flow",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "120Hz",
+    "source_span": "120Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "2304x1536",
+    "source_span": "2304x1536",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x USB-C 4.0",
+      "1x USB-A 3.1",
+      "1x Surface Connect"
+    ],
+    "source_span": "2x USB-C 4.0, 1x USB-A 3.1, 1x Surface Connect",
+    "note": null
+  },
+  "power": {
+    "value": "54Wh",
+    "source_span": "54Wh",
+    "note": null
+  },
+  "warranty_months": {
+    "value": "12",
+    "source_span": "12 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi nhà sản xuất",
+    "source_span": "lỗi nhà sản xuất",
+    "note": null
+  },
+  "return_days": {
+    "value": "60",
+    "source_span": "60 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ (nếu không có Complete)",
+      "vào nước"
+    ],
+    "source_span": "rơi vỡ (nếu không có Complete), vào nước",
+    "note": null
+  }
+}

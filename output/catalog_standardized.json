@@ -1,0 +1,4717 @@
+{
+  "generated_at": "2026-09-12T17:00:17.164731+00:00",
+  "schema_version": "2.0",
+  "count": 63,
+  "metrics": {
+    "retrieval_hit_rate_top3": 0.5,
+    "intent_accuracy": 0.0,
+    "values_provenance_rate": 0.8214
+  },
+  "products": [
+    {
+      "sku": "MON-27-4K-01",
+      "name": "ProVision UltraView 27\" 4K",
+      "brand": "ProVision",
+      "category": "Màn hình",
+      "price": 899,
+      "currency": "AUD",
+      "stock": 45,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "resolution",
+          "value": "3840x2160",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3840x2160"
+        }
+      ],
+      "policy": {},
+      "outcomes": {},
+      "values": [],
+      "agent_text": "ProVision UltraView 27\" 4K (ProVision) - Màn hình Thông số: Kích thước: 27 inch. Tấm nền: IPS. Độ phân giải: 3840x2160. Giá: 899 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-QHD-02",
+      "name": "ProVision GameStorm 27\" QHD",
+      "brand": "ProVision",
+      "category": "Màn hình Gaming",
+      "price": 749,
+      "currency": "AUD",
+      "stock": 32,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "VA",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "VA"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "165Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "165Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2560x1440",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2560x1440"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x HDMI 2.0",
+            "1x DisplayPort 1.4"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x HDMI 2.0, 1x DisplayPort 1.4"
+        },
+        {
+          "name": "power",
+          "value": "38W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "38W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi kỹ thuật và điểm chết pixel (trên 5 điểm)",
+          "confidence": "high",
+          "source_span": "lỗi kỹ thuật và điểm chết pixel (trên 5 điểm)"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7 ngày"
+        },
+        "exclusions": [
+          "cháy nổ do nguồn điện không ổn định",
+          "tự ý sửa chữa",
+          "hư hỏng do vận chuyển sau khi nhận hàng"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": [
+            "gaming"
+          ],
+          "confidence": "high",
+          "source_span": "Chiến game"
+        }
+      },
+      "values": [],
+      "agent_text": "ProVision GameStorm 27\" QHD (ProVision) - Màn hình Gaming Phù hợp cho: gaming. Thông số: Kích thước: 27 inch. Tấm nền: VA. Tần số quét: 165Hz. Độ phân giải: 2560x1440. Cổng kết nối: 2x HDMI 2.0, 1x DisplayPort 1.4. Công suất: 38W. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: lỗi kỹ thuật và điểm chết pixel (trên 5 điểm). Đổi trả: 7 ngày. Loại trừ: cháy nổ do nguồn điện không ổn định, tự ý sửa chữa, hư hỏng do vận chuyển sau khi nhận hàng. Giá: 749 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-32-4K-03",
+      "name": "ProVision StudioPro 32\" 4K",
+      "brand": "ProVision",
+      "category": "Màn hình Đồ họa",
+      "price": 1299,
+      "currency": "AUD",
+      "stock": 18,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "32 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "32 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "60Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "60Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "3840x2160",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3840x2160"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x USB-C PD 90W",
+            "1x HDMI 2.0",
+            "1x DisplayPort 1.4",
+            "hub USB 3.0 x4"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x USB-C PD 90W, 1x HDMI 2.0, 1x DisplayPort 1.4, hub USB 3.0 x4"
+        },
+        {
+          "name": "power",
+          "value": "55W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "55W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi phần cứng, điểm chết pixel",
+          "confidence": "high",
+          "source_span": "lỗi phần cứng, điểm chết pixel"
+        },
+        "return_days": {
+          "value": 30,
+          "confidence": "high",
+          "source_span": "30 ngày"
+        },
+        "exclusions": [
+          "hư hỏng vật lý",
+          "vào chất lỏng",
+          "sửa chữa bởi bên thứ ba"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": [
+            "graphic_design"
+          ],
+          "confidence": "high",
+          "source_span": "dân chuyên đồ hoạ"
+        },
+        "skill_level": {
+          "value": "professional",
+          "confidence": "high",
+          "source_span": "dân chuyên đồ hoạ"
+        },
+        "environment": {
+          "value": "studio",
+          "confidence": "high",
+          "source_span": "StudioPro"
+        }
+      },
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 36 tháng"
+        }
+      ],
+      "agent_text": "ProVision StudioPro 32\" 4K (ProVision) - Màn hình Đồ họa Phù hợp cho: graphic_design. Trình độ: professional. Thông số: Kích thước: 32 inch. Tấm nền: IPS. Tần số quét: 60Hz. Độ phân giải: 3840x2160. Cổng kết nối: 1x USB-C PD 90W, 1x HDMI 2.0, 1x DisplayPort 1.4, hub USB 3.0 x4. Công suất: 55W. Môi trường: studio. Giá trị: long_warranty. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: lỗi phần cứng, điểm chết pixel. Đổi trả: 30 ngày. Loại trừ: hư hỏng vật lý, vào chất lỏng, sửa chữa bởi bên thứ ba. Giá: 1299 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-24-FHD-04",
+      "name": "TechView Office 24\" FHD",
+      "brand": "TechView",
+      "category": "Màn hình Văn phòng",
+      "price": 329,
+      "currency": "AUD",
+      "stock": 120,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "23.8 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "23.8 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "75Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "75Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "Full HD 1920x1080",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Full HD 1920x1080"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x HDMI 1.4",
+            "1x VGA",
+            "1x cổng audio out"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x HDMI 1.4, 1x VGA, 1x cổng audio out"
+        },
+        {
+          "name": "power",
+          "value": "22W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "22W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi kỹ thuật nhà sản xuất",
+          "confidence": "high",
+          "source_span": "lỗi kỹ thuật nhà sản xuất"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "hết hạn bảo hành"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "energy_efficiency",
+          "confidence": "high",
+          "source_span": "tiết kiệm năng lượng"
+        }
+      ],
+      "agent_text": "TechView Office 24\" FHD (TechView) - Màn hình Văn phòng Thông số: Kích thước: 23.8 inch. Tấm nền: IPS. Tần số quét: 75Hz. Độ phân giải: Full HD 1920x1080. Cổng kết nối: 1x HDMI 1.4, 1x VGA, 1x cổng audio out. Công suất: 22W. Giá trị: energy_efficiency. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: lỗi kỹ thuật nhà sản xuất. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, hết hạn bảo hành. Giá: 329 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-34-UW-05",
+      "name": "UltraWide ProCurve 34\"",
+      "brand": "ProVision",
+      "category": "Màn hình UltraWide",
+      "price": 1099,
+      "currency": "AUD",
+      "stock": 22,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "34 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "34 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "VA",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "VA"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "100Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "100Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "UWQHD 3440x1440",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "UWQHD 3440x1440"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x HDMI 2.0",
+            "1x DisplayPort 1.4",
+            "1x USB-C 65W",
+            "hub USB 3.0 x2"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C 65W, hub USB 3.0 x2"
+        },
+        {
+          "name": "power",
+          "value": "60W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "60W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "toàn bộ linh kiện phần cứng",
+          "confidence": "high",
+          "source_span": "toàn bộ linh kiện phần cứng"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "sử dụng sai nguồn điện",
+          "tự tháo lắp"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "UltraWide ProCurve 34\" (ProVision) - Màn hình UltraWide Thông số: Kích thước: 34 inch. Tấm nền: VA. Tần số quét: 100Hz. Độ phân giải: UWQHD 3440x1440. Cổng kết nối: 2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C 65W, hub USB 3.0 x2. Công suất: 60W. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: toàn bộ linh kiện phần cứng. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, sử dụng sai nguồn điện, tự tháo lắp. Giá: 1099 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-FHD-06",
+      "name": "SpeedX Blitz 27\" FHD",
+      "brand": "SpeedX",
+      "category": "Màn hình Gaming",
+      "price": 549,
+      "currency": "AUD",
+      "stock": 55,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "TN",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "TN"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "240Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "240Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "1920x1080 Full HD",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1920x1080 Full HD"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x HDMI 2.0",
+            "1x DisplayPort 1.4"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x HDMI 2.0, 1x DisplayPort 1.4"
+        },
+        {
+          "name": "power",
+          "value": "35W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "35W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 18,
+          "confidence": "high",
+          "source_span": "18 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi panel, lỗi mạch điều khiển",
+          "confidence": "high",
+          "source_span": "lỗi panel, lỗi mạch điều khiển"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7 ngày"
+        },
+        "exclusions": [
+          "burn-in do dùng sai",
+          "cháy nguồn",
+          "rơi vỡ"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "SpeedX Blitz 27\" FHD (SpeedX) - Màn hình Gaming Thông số: Kích thước: 27 inch. Tấm nền: TN. Tần số quét: 240Hz. Độ phân giải: 1920x1080 Full HD. Cổng kết nối: 2x HDMI 2.0, 1x DisplayPort 1.4. Công suất: 35W. Chính sách: Bảo hành: 18 tháng. Phạm vi bảo hành: lỗi panel, lỗi mạch điều khiển. Đổi trả: 7 ngày. Loại trừ: burn-in do dùng sai, cháy nguồn, rơi vỡ. Giá: 549 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-49-SUW-07",
+      "name": "ProVision MegaView 49\" Super UltraWide",
+      "brand": "ProVision",
+      "category": "Màn hình UltraWide",
+      "price": 1899,
+      "currency": "AUD",
+      "stock": 8,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "49 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "49 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "VA",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "VA"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "120Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "120Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "5120x1440",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "5120x1440"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x HDMI 2.1",
+            "1x DisplayPort 2.0",
+            "2x USB-C (1 cổng PD 90W)",
+            "hub USB 3.2 x4",
+            "KVM switch"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x HDMI 2.1, 1x DisplayPort 2.0, 2x USB-C (1 cổng PD 90W), hub USB 3.2 x4, KVM switch"
+        },
+        {
+          "name": "power",
+          "value": "80W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "80W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "VIP on-site tại nhà. Phạm vi: toàn bộ phần cứng kể cả nguồn",
+          "confidence": "high",
+          "source_span": "VIP on-site tại nhà. Phạm vi: toàn bộ phần cứng kể cả nguồn"
+        },
+        "return_days": {
+          "value": 30,
+          "confidence": "high",
+          "source_span": "30 ngày"
+        },
+        "exclusions": [
+          "va đập mạnh",
+          "vào nước",
+          "mở máy sửa chữa không qua trung tâm uỷ quyền"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "low",
+          "source_span": null
+        }
+      ],
+      "agent_text": "ProVision MegaView 49\" Super UltraWide (ProVision) - Màn hình UltraWide Thông số: Kích thước: 49 inch. Tấm nền: VA. Tần số quét: 120Hz. Độ phân giải: 5120x1440. Cổng kết nối: 2x HDMI 2.1, 1x DisplayPort 2.0, 2x USB-C (1 cổng PD 90W), hub USB 3.2 x4, KVM switch. Công suất: 80W. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: VIP on-site tại nhà. Phạm vi: toàn bộ phần cứng kể cả nguồn. Đổi trả: 30 ngày. Loại trừ: va đập mạnh, vào nước, mở máy sửa chữa không qua trung tâm uỷ quyền. Giá: 1899 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-4K-08",
+      "name": "ClearView HDR Pro 27\"",
+      "brand": "ClearView",
+      "category": "Màn hình HDR",
+      "price": 999,
+      "currency": "AUD",
+      "stock": 28,
+      "specs": [],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": "chính sách tiêu chuẩn",
+          "confidence": "high",
+          "source_span": "chính sách tiêu chuẩn"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "ClearView HDR Pro 27\" (ClearView) - Màn hình HDR Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: chính sách tiêu chuẩn. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước. Giá: 999 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-32-QHD-09",
+      "name": "TechView Creator 32\" QHD",
+      "brand": "TechView",
+      "category": "Màn hình Đồ họa",
+      "price": 899,
+      "currency": "AUD",
+      "stock": 35,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "32 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "32 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS Nano",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS Nano"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "75Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "75Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2560x1440 QHD",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2560x1440 QHD"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x HDMI 2.0",
+            "1x DisplayPort 1.4",
+            "1x USB-C PD 65W"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C PD 65W"
+        },
+        {
+          "name": "power",
+          "value": "42W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "42W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi panel và linh kiện điện tử",
+          "confidence": "high",
+          "source_span": "lỗi panel và linh kiện điện tử"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "hư hỏng do người dùng",
+          "vào chất lỏng",
+          "sửa chữa trái phép"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": [
+            "graphic_design"
+          ],
+          "confidence": "high",
+          "source_span": "designer"
+        }
+      },
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 36 tháng"
+        }
+      ],
+      "agent_text": "TechView Creator 32\" QHD (TechView) - Màn hình Đồ họa Phù hợp cho: graphic_design. Thông số: Kích thước: 32 inch. Tấm nền: IPS Nano. Tần số quét: 75Hz. Độ phân giải: 2560x1440 QHD. Cổng kết nối: 1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C PD 65W. Công suất: 42W. Giá trị: long_warranty. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: lỗi panel và linh kiện điện tử. Đổi trả: 14 ngày. Loại trừ: hư hỏng do người dùng, vào chất lỏng, sửa chữa trái phép. Giá: 899 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-24-FHD-10",
+      "name": "SpeedX Entry 24\" FHD",
+      "brand": "SpeedX",
+      "category": "Màn hình Gaming Giá rẻ",
+      "price": 249,
+      "currency": "AUD",
+      "stock": 200,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "24 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "24 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "VA",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "VA"
+        },
+        {
+          "name": "resolution",
+          "value": "1920x1080",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1920x1080"
+        }
+      ],
+      "policy": {},
+      "outcomes": {},
+      "values": [],
+      "agent_text": "SpeedX Entry 24\" FHD (SpeedX) - Màn hình Gaming Giá rẻ Thông số: Kích thước: 24 inch. Tấm nền: VA. Độ phân giải: 1920x1080. Giá: 249 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-5K-11",
+      "name": "ProVision Studio 5K 27\"",
+      "brand": "ProVision",
+      "category": "Màn hình Chuyên nghiệp",
+      "price": 1699,
+      "currency": "AUD",
+      "stock": 12,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "60Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "60Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "5120x2880 (5K)",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "5120x2880 (5K)"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x Thunderbolt 4 (PD 96W)",
+            "1x HDMI 2.1",
+            "hub USB-C x3"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x Thunderbolt 4 (PD 96W), 1x HDMI 2.1, hub USB-C x3"
+        },
+        {
+          "name": "power",
+          "value": "65W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "65W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "toàn bộ phần cứng, hiệu chuẩn lại miễn phí mỗi năm",
+          "confidence": "high",
+          "source_span": "toàn bộ phần cứng, hiệu chuẩn lại miễn phí mỗi năm"
+        },
+        "return_days": {
+          "value": 30,
+          "confidence": "high",
+          "source_span": "30 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "thay đổi phần cứng không được phép"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 36 tháng"
+        }
+      ],
+      "agent_text": "ProVision Studio 5K 27\" (ProVision) - Màn hình Chuyên nghiệp Thông số: Kích thước: 27 inch. Tấm nền: IPS. Tần số quét: 60Hz. Độ phân giải: 5120x2880 (5K). Cổng kết nối: 1x Thunderbolt 4 (PD 96W), 1x HDMI 2.1, hub USB-C x3. Công suất: 65W. Giá trị: long_warranty. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: toàn bộ phần cứng, hiệu chuẩn lại miễn phí mỗi năm. Đổi trả: 30 ngày. Loại trừ: rơi vỡ, vào nước, thay đổi phần cứng không được phép. Giá: 1699 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-15-FHD-12",
+      "name": "TechView Portable 15.6\"",
+      "brand": "TechView",
+      "category": "Màn hình Di động",
+      "price": 399,
+      "currency": "AUD",
+      "stock": 60,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "15.6 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "15.6 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "60Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "60Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "Full HD 1920x1080",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Full HD 1920x1080"
+        },
+        {
+          "name": "ports",
+          "value": "1x USB-C (DP Alt mode + PD 15W), 1x mini-HDMI",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x USB-C (DP Alt mode + PD 15W), 1x mini-HDMI"
+        },
+        {
+          "name": "power",
+          "value": "8W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "8W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi panel và mạch điều khiển",
+          "confidence": "high",
+          "source_span": "lỗi panel và mạch điều khiển"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "gập quá mạnh gây hỏng bản lề",
+          "vào nước"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "TechView Portable 15.6\" (TechView) - Màn hình Di động Thông số: Kích thước: 15.6 inch. Tấm nền: IPS. Tần số quét: 60Hz. Độ phân giải: Full HD 1920x1080. Cổng kết nối: 1x USB-C (DP Alt mode + PD 15W), 1x mini-HDMI. Công suất: 8W. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi panel và mạch điều khiển. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, gập quá mạnh gây hỏng bản lề, vào nước. Giá: 399 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-OLED-13",
+      "name": "ProVision OLED Master 27\"",
+      "brand": "ProVision",
+      "category": "Màn hình OLED",
+      "price": 1399,
+      "currency": "AUD",
+      "stock": 15,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "QD-OLED",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "QD-OLED"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "144Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "144Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "3840x2160 4K",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3840x2160 4K"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x HDMI 2.1",
+            "1x DisplayPort 2.0",
+            "1x USB-C PD 65W"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x HDMI 2.1, 1x DisplayPort 2.0, 1x USB-C PD 65W"
+        },
+        {
+          "name": "power",
+          "value": "50W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "50W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "panel OLED, mạch điều khiển, nguồn",
+          "confidence": "high",
+          "source_span": "panel OLED, mạch điều khiển, nguồn"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "tự ý tháo máy"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 36 tháng"
+        }
+      ],
+      "agent_text": "ProVision OLED Master 27\" (ProVision) - Màn hình OLED Thông số: Kích thước: 27 inch. Tấm nền: QD-OLED. Tần số quét: 144Hz. Độ phân giải: 3840x2160 4K. Cổng kết nối: 2x HDMI 2.1, 1x DisplayPort 2.0, 1x USB-C PD 65W. Công suất: 50W. Giá trị: long_warranty. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: panel OLED, mạch điều khiển, nguồn. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, tự ý tháo máy. Giá: 1399 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-24-TN-14",
+      "name": "SpeedX Esports 24.5\"",
+      "brand": "SpeedX",
+      "category": "Màn hình Esports",
+      "price": 449,
+      "currency": "AUD",
+      "stock": 40,
+      "specs": [],
+      "policy": {},
+      "outcomes": {},
+      "values": [],
+      "agent_text": "SpeedX Esports 24.5\" (SpeedX) - Màn hình Esports Giá: 449 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-32-4K-15",
+      "name": "ClearView Cinema 32\" 4K HDR",
+      "brand": "ClearView",
+      "category": "Màn hình Giải trí",
+      "price": 799,
+      "currency": "AUD",
+      "stock": 42,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "32 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "32 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "VA",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "VA"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "60Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "60Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "4K 3840x2160",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "4K 3840x2160"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "3x HDMI 2.0 (1 cổng ARC)",
+            "1x quang học",
+            "1x USB media"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3x HDMI 2.0 (1 cổng ARC), 1x quang học, 1x USB media"
+        },
+        {
+          "name": "power",
+          "value": "48W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "48W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": [
+            "panel",
+            "loa",
+            "nguồn"
+          ],
+          "confidence": "high",
+          "source_span": "panel, loa, nguồn"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "sử dụng ngoài trời"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "ClearView Cinema 32\" 4K HDR (ClearView) - Màn hình Giải trí Thông số: Kích thước: 32 inch. Tấm nền: VA. Tần số quét: 60Hz. Độ phân giải: 4K 3840x2160. Cổng kết nối: 3x HDMI 2.0 (1 cổng ARC), 1x quang học, 1x USB media. Công suất: 48W. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: panel, loa, nguồn. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, sử dụng ngoài trời. Giá: 799 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-MINI-16",
+      "name": "TechView MiniLED 27\" 4K",
+      "brand": "TechView",
+      "category": "Màn hình MiniLED",
+      "price": 1199,
+      "currency": "AUD",
+      "stock": 20,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS + MiniLED backlight",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS + MiniLED backlight"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "160Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "160Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "3840x2160 4K",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3840x2160 4K"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x HDMI 2.1",
+            "1x DisplayPort 2.0",
+            "1x USB-C PD 65W"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x HDMI 2.1, 1x DisplayPort 2.0, 1x USB-C PD 65W"
+        },
+        {
+          "name": "power",
+          "value": "70W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "70W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "panel, LED backlight, nguồn",
+          "confidence": "high",
+          "source_span": "panel, LED backlight, nguồn"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "hư hỏng do thiên tai",
+          "tự sửa chữa",
+          "dùng nguồn điện không đúng"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 36 tháng"
+        }
+      ],
+      "agent_text": "TechView MiniLED 27\" 4K (TechView) - Màn hình MiniLED Thông số: Kích thước: 27 inch. Tấm nền: IPS + MiniLED backlight. Tần số quét: 160Hz. Độ phân giải: 3840x2160 4K. Cổng kết nối: 2x HDMI 2.1, 1x DisplayPort 2.0, 1x USB-C PD 65W. Công suất: 70W. Giá trị: long_warranty. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: panel, LED backlight, nguồn. Đổi trả: 14 ngày. Loại trừ: hư hỏng do thiên tai, tự sửa chữa, dùng nguồn điện không đúng. Giá: 1199 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-21-FHD-17",
+      "name": "ClearView Basic 21.5\"",
+      "brand": "ClearView",
+      "category": "Màn hình Cơ bản",
+      "price": 179,
+      "currency": "AUD",
+      "stock": 300,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "21.5 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "21.5 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "TN",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "TN"
+        },
+        {
+          "name": "resolution",
+          "value": "1920x1080",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1920x1080"
+        }
+      ],
+      "policy": {},
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 12 tháng"
+        }
+      ],
+      "agent_text": "ClearView Basic 21.5\" (ClearView) - Màn hình Cơ bản Thông số: Kích thước: 21.5 inch. Tấm nền: TN. Độ phân giải: 1920x1080. Giá trị: long_warranty. Giá: 179 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-QHD-18",
+      "name": "ProVision FlexArm 27\" QHD",
+      "brand": "ProVision",
+      "category": "Màn hình Ergonomic",
+      "price": 849,
+      "currency": "AUD",
+      "stock": 30,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "75Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "75Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2560x1440 QHD",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2560x1440 QHD"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x HDMI 2.0",
+            "1x DisplayPort 1.4",
+            "1x USB-C PD 65W",
+            "hub USB 3.0 x4",
+            "RJ45 Ethernet"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C PD 65W, hub USB 3.0 x4, RJ45 Ethernet"
+        },
+        {
+          "name": "power",
+          "value": "38W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "38W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "toàn bộ phần cứng",
+          "confidence": "high",
+          "source_span": "toàn bộ phần cứng"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "hư hỏng cơ học do quá tải",
+          "vào nước",
+          "tự sửa"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 36 tháng"
+        }
+      ],
+      "agent_text": "ProVision FlexArm 27\" QHD (ProVision) - Màn hình Ergonomic Thông số: Kích thước: 27 inch. Tấm nền: IPS. Tần số quét: 75Hz. Độ phân giải: 2560x1440 QHD. Cổng kết nối: 1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C PD 65W, hub USB 3.0 x4, RJ45 Ethernet. Công suất: 38W. Giá trị: long_warranty. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: toàn bộ phần cứng. Đổi trả: 14 ngày. Loại trừ: hư hỏng cơ học do quá tải, vào nước, tự sửa. Giá: 849 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-4K-19",
+      "name": "SpeedX Quantum 27\" 4K Gaming",
+      "brand": "SpeedX",
+      "category": "Màn hình Gaming",
+      "price": 1149,
+      "currency": "AUD",
+      "stock": 25,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "resolution",
+          "value": "3840x2160",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3840x2160"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x HDMI 2.1",
+            "1x DP 2.0",
+            "1x USB-C",
+            "hub USB 3.2 x3"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x HDMI 2.1, 1x DP 2.0, 1x USB-C, hub USB 3.2 x3"
+        },
+        {
+          "name": "power",
+          "value": "55W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "55W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": "panel, nguồn, mạch điều khiển",
+          "confidence": "high",
+          "source_span": "panel, nguồn, mạch điều khiển"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "burn-in do sử dụng sai, rơi vỡ, vào nước, tự tháo máy"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "gaming",
+          "confidence": "high",
+          "source_span": "Gaming"
+        }
+      },
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 24 tháng"
+        }
+      ],
+      "agent_text": "SpeedX Quantum 27\" 4K Gaming (SpeedX) - Màn hình Gaming Phù hợp cho: gaming. Thông số: Kích thước: 27 inch. Tấm nền: IPS. Độ phân giải: 3840x2160. Cổng kết nối: 2x HDMI 2.1, 1x DP 2.0, 1x USB-C, hub USB 3.2 x3. Công suất: 55W. Giá trị: long_warranty. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: panel, nguồn, mạch điều khiển. Đổi trả: 14 ngày. Loại trừ: burn-in do sử dụng sai, rơi vỡ, vào nước, tự tháo máy. Giá: 1149 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-43-4K-20",
+      "name": "ClearView BigScreen 43\" 4K",
+      "brand": "ClearView",
+      "category": "Màn hình Lớn",
+      "price": 699,
+      "currency": "AUD",
+      "stock": 15,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "43 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "43 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "VA",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "VA"
+        },
+        {
+          "name": "resolution",
+          "value": "3840x2160 4K",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3840x2160 4K"
+        }
+      ],
+      "policy": {},
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 24 tháng"
+        }
+      ],
+      "agent_text": "ClearView BigScreen 43\" 4K (ClearView) - Màn hình Lớn Thông số: Kích thước: 43 inch. Tấm nền: VA. Độ phân giải: 3840x2160 4K. Giá trị: long_warranty. Giá: 699 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-FHD-21",
+      "name": "TechView WebCam 27\" FHD",
+      "brand": "TechView",
+      "category": "Màn hình Họp Online",
+      "price": 479,
+      "currency": "AUD",
+      "stock": 50,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "resolution",
+          "value": "1920x1080 Full HD",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1920x1080 Full HD"
+        }
+      ],
+      "policy": {
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "hư hỏng do rơi",
+          "vào nước",
+          "tự ý can thiệp phần cứng"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "Họp online",
+          "confidence": "high",
+          "source_span": "Họp online"
+        }
+      },
+      "values": [],
+      "agent_text": "TechView WebCam 27\" FHD (TechView) - Màn hình Họp Online Phù hợp cho: Họp online. Thông số: Kích thước: 27 inch. Tấm nền: IPS. Độ phân giải: 1920x1080 Full HD. Chính sách: Đổi trả: 14 ngày. Loại trừ: hư hỏng do rơi, vào nước, tự ý can thiệp phần cứng. Giá: 479 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-16-OLED-22",
+      "name": "ProVision OLED Portable 16\"",
+      "brand": "ProVision",
+      "category": "Màn hình Di động OLED",
+      "price": 699,
+      "currency": "AUD",
+      "stock": 25,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "16 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "16 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "OLED",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "OLED"
+        },
+        {
+          "name": "resolution",
+          "value": "3840x2400",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3840x2400"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 18,
+          "confidence": "high",
+          "source_span": "18 tháng"
+        },
+        "warranty_scope": {
+          "value": "panel OLED, pin, mạch",
+          "confidence": "high",
+          "source_span": "panel OLED, pin, mạch"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "burn-in sau 18 tháng, rơi vỡ, vào nước"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 18 tháng"
+        }
+      ],
+      "agent_text": "ProVision OLED Portable 16\" (ProVision) - Màn hình Di động OLED Thông số: Kích thước: 16 inch. Tấm nền: OLED. Độ phân giải: 3840x2400. Giá trị: long_warranty. Chính sách: Bảo hành: 18 tháng. Phạm vi bảo hành: panel OLED, pin, mạch. Đổi trả: 14 ngày. Loại trừ: burn-in sau 18 tháng, rơi vỡ, vào nước. Giá: 699 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-24-TOUCH-23",
+      "name": "TechView Touch 24\" FHD",
+      "brand": "TechView",
+      "category": "Màn hình Cảm ứng",
+      "price": 549,
+      "currency": "AUD",
+      "stock": 30,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "24 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "24 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "resolution",
+          "value": "1920x1080",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1920x1080"
+        }
+      ],
+      "policy": {},
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "low",
+          "source_span": null
+        }
+      ],
+      "agent_text": "TechView Touch 24\" FHD (TechView) - Màn hình Cảm ứng Thông số: Kích thước: 24 inch. Tấm nền: IPS. Độ phân giải: 1920x1080. Giá: 549 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-GAME-24",
+      "name": "ClearView Arena 27\" QHD",
+      "brand": "ClearView",
+      "category": "Màn hình Gaming",
+      "price": 649,
+      "currency": "AUD",
+      "stock": 45,
+      "specs": [],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": [
+            "gaming"
+          ],
+          "confidence": "high",
+          "source_span": "gaming"
+        }
+      },
+      "values": [],
+      "agent_text": "ClearView Arena 27\" QHD (ClearView) - Màn hình Gaming Phù hợp cho: gaming. Chính sách: Bảo hành: 24 tháng. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước. Giá: 649 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-32-CURVED-25",
+      "name": "SpeedX Horizon 32\" QHD Curved",
+      "brand": "SpeedX",
+      "category": "Màn hình Gaming Cong",
+      "price": 849,
+      "currency": "AUD",
+      "stock": 35,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "32 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "32 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "VA",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "VA"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "165Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "165Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2560x1440 QHD",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2560x1440 QHD"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x HDMI 2.0",
+            "1x DisplayPort 1.4",
+            "1x USB-C"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C"
+        },
+        {
+          "name": "power",
+          "value": "45W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "45W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": [
+            "panel",
+            "đèn LED"
+          ],
+          "confidence": "high",
+          "source_span": "panel, đèn LED"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "hư hỏng vật lý",
+          "vào chất lỏng"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "low",
+          "source_span": null
+        }
+      ],
+      "agent_text": "SpeedX Horizon 32\" QHD Curved (SpeedX) - Màn hình Gaming Cong Thông số: Kích thước: 32 inch. Tấm nền: VA. Tần số quét: 165Hz. Độ phân giải: 2560x1440 QHD. Cổng kết nối: 2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C. Công suất: 45W. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: panel, đèn LED. Đổi trả: 14 ngày. Loại trừ: hư hỏng vật lý, vào chất lỏng. Giá: 849 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-27-NANO-26",
+      "name": "ProVision NanoEdge 27\" 4K",
+      "brand": "ProVision",
+      "category": "Màn hình Viền mỏng",
+      "price": 949,
+      "currency": "AUD",
+      "stock": 30,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "60Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "60Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "3840x2160 4K",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3840x2160 4K"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x HDMI 2.0",
+            "1x DisplayPort 1.4",
+            "1x USB-C PD 65W"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C PD 65W"
+        },
+        {
+          "name": "power",
+          "value": "35W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "35W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "toàn bộ phần cứng",
+          "confidence": "high",
+          "source_span": "toàn bộ phần cứng"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "sửa chữa không uỷ quyền"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 36 tháng"
+        }
+      ],
+      "agent_text": "ProVision NanoEdge 27\" 4K (ProVision) - Màn hình Viền mỏng Thông số: Kích thước: 27 inch. Tấm nền: IPS. Tần số quét: 60Hz. Độ phân giải: 3840x2160 4K. Cổng kết nối: 1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C PD 65W. Công suất: 35W. Giá trị: long_warranty. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: toàn bộ phần cứng. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, sửa chữa không uỷ quyền. Giá: 949 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-24-PRO-27",
+      "name": "ClearView ProColor 24\" FHD",
+      "brand": "ClearView",
+      "category": "Màn hình Màu chuẩn",
+      "price": 599,
+      "currency": "AUD",
+      "stock": 20,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "24 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "24 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "resolution",
+          "value": "1920x1080 FHD",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1920x1080 FHD"
+        }
+      ],
+      "policy": {},
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 36 tháng"
+        }
+      ],
+      "agent_text": "ClearView ProColor 24\" FHD (ClearView) - Màn hình Màu chuẩn Thông số: Kích thước: 24 inch. Tấm nền: IPS. Độ phân giải: 1920x1080 FHD. Giá trị: long_warranty. Giá: 599 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-34-OLED-28",
+      "name": "ProVision OLED Wide 34\"",
+      "brand": "ProVision",
+      "category": "Màn hình OLED UltraWide",
+      "price": 1599,
+      "currency": "AUD",
+      "stock": 10,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "34 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "34 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "WOLED",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "WOLED"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "175Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "175Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "3440x1440",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3440x1440"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x HDMI 2.1",
+            "1x DisplayPort 2.0",
+            "1x USB-C PD 90W"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x HDMI 2.1, 1x DisplayPort 2.0, 1x USB-C PD 90W"
+        },
+        {
+          "name": "power",
+          "value": "55W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "55W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "panel OLED, tất cả linh kiện",
+          "confidence": "high",
+          "source_span": "panel OLED, tất cả linh kiện"
+        },
+        "return_days": {
+          "value": 30,
+          "confidence": "high",
+          "source_span": "30 ngày"
+        },
+        "exclusions": [
+          "hư hỏng do người dùng gây ra"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "ProVision OLED Wide 34\" (ProVision) - Màn hình OLED UltraWide Thông số: Kích thước: 34 inch. Tấm nền: WOLED. Tần số quét: 175Hz. Độ phân giải: 3440x1440. Cổng kết nối: 2x HDMI 2.1, 1x DisplayPort 2.0, 1x USB-C PD 90W. Công suất: 55W. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: panel OLED, tất cả linh kiện. Đổi trả: 30 ngày. Loại trừ: hư hỏng do người dùng gây ra. Giá: 1599 AUD. Còn hàng."
+    },
+    {
+      "sku": "MON-17-FHD-29",
+      "name": "TechView Field 17.3\" FHD",
+      "brand": "TechView",
+      "category": "Màn hình Di động Chuyên nghiệp",
+      "price": 549,
+      "currency": "AUD",
+      "stock": 15,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "17.3 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "17.3 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "60Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "60Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "1920x1080",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1920x1080"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "4x SDI (1 in, 3 out)",
+            "1x HDMI 2.0",
+            "1x USB-C"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "4x SDI (1 in, 3 out), 1x HDMI 2.0, 1x USB-C"
+        },
+        {
+          "name": "power",
+          "value": "18W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "18W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24"
+        },
+        "warranty_scope": {
+          "value": "toàn bộ trừ pin",
+          "confidence": "high",
+          "source_span": "toàn bộ trừ pin"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14"
+        },
+        "exclusions": [
+          "rơi từ trên 1m",
+          "ngập nước",
+          "tự sửa"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "videography",
+          "confidence": "high",
+          "source_span": "Sản xuất video"
+        },
+        "environment": {
+          "value": "outdoor",
+          "confidence": "high",
+          "source_span": "ngoài trời"
+        }
+      },
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 24 tháng"
+        }
+      ],
+      "agent_text": "TechView Field 17.3\" FHD (TechView) - Màn hình Di động Chuyên nghiệp Phù hợp cho: videography. Thông số: Kích thước: 17.3 inch. Tấm nền: IPS. Tần số quét: 60Hz. Độ phân giải: 1920x1080. Cổng kết nối: 4x SDI (1 in, 3 out), 1x HDMI 2.0, 1x USB-C. Công suất: 18W. Môi trường: outdoor. Giá trị: long_warranty. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: toàn bộ trừ pin. Đổi trả: 14 ngày. Loại trừ: rơi từ trên 1m, ngập nước, tự sửa. Giá: 549 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-MBP-14",
+      "name": "MacBook Pro 14 inch M4 Pro",
+      "brand": "Apple",
+      "category": "Laptop",
+      "price": 2999,
+      "currency": "AUD",
+      "stock": 30,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "14.2 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "14.2 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "Liquid Retina XDR",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Liquid Retina XDR"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "120Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "120Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "3024x1964",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3024x1964"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "3x Thunderbolt 4",
+            "1x HDMI 2.1",
+            "1x MagSafe 3",
+            "1x khe SD card",
+            "1x jack 3.5mm"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3x Thunderbolt 4, 1x HDMI 2.1, 1x MagSafe 3, 1x khe SD card, 1x jack 3.5mm"
+        },
+        {
+          "name": "power",
+          "value": "70Wh",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "70Wh"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi phần cứng do sản xuất",
+          "confidence": "high",
+          "source_span": "lỗi phần cứng do sản xuất"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "phần mềm",
+          "phụ kiện"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "MacBook Pro 14 inch M4 Pro (Apple) - Laptop Thông số: Kích thước: 14.2 inch. Tấm nền: Liquid Retina XDR. Tần số quét: 120Hz. Độ phân giải: 3024x1964. Cổng kết nối: 3x Thunderbolt 4, 1x HDMI 2.1, 1x MagSafe 3, 1x khe SD card, 1x jack 3.5mm. Công suất: 70WhW. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi phần cứng do sản xuất. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, phần mềm, phụ kiện. Giá: 2999 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-MBP-16",
+      "name": "MacBook Pro 16 inch M4 Max",
+      "brand": "Apple",
+      "category": "Laptop Chuyên nghiệp",
+      "price": 4999,
+      "currency": "AUD",
+      "stock": 15,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "16.2 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "16.2 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "Liquid Retina XDR",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Liquid Retina XDR"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "120Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "120Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "3456x2234",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3456x2234"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "3x Thunderbolt 5",
+            "1x HDMI 2.1",
+            "1x MagSafe 3",
+            "1x khe SD card",
+            "1x jack 3.5mm"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3x Thunderbolt 5, 1x HDMI 2.1, 1x MagSafe 3, 1x khe SD card, 1x jack 3.5mm"
+        },
+        {
+          "name": "power",
+          "value": "100Wh",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "100Wh"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi nhà sản xuất",
+          "confidence": "high",
+          "source_span": "lỗi nhà sản xuất"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước (nếu không có AppleCare+)",
+          "tự ý mở máy"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "MacBook Pro 16 inch M4 Max (Apple) - Laptop Chuyên nghiệp Thông số: Kích thước: 16.2 inch. Tấm nền: Liquid Retina XDR. Tần số quét: 120Hz. Độ phân giải: 3456x2234. Cổng kết nối: 3x Thunderbolt 5, 1x HDMI 2.1, 1x MagSafe 3, 1x khe SD card, 1x jack 3.5mm. Công suất: 100WhW. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi nhà sản xuất. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước (nếu không có AppleCare+), tự ý mở máy. Giá: 4999 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-MBA-13",
+      "name": "MacBook Air 13 inch M4",
+      "brand": "Apple",
+      "category": "Laptop Mỏng nhẹ",
+      "price": 1799,
+      "currency": "AUD",
+      "stock": 50,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "13.6 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "13.6 inch"
+        },
+        {
+          "name": "resolution",
+          "value": "2560x1664",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2560x1664"
+        },
+        {
+          "name": "power",
+          "value": "30W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "sạc 30W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi phần cứng sản xuất",
+          "confidence": "high",
+          "source_span": "lỗi phần cứng sản xuất"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "phần mềm"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "low",
+          "source_span": null
+        }
+      ],
+      "agent_text": "MacBook Air 13 inch M4 (Apple) - Laptop Mỏng nhẹ Thông số: Kích thước: 13.6 inch. Độ phân giải: 2560x1664. Công suất: 30W. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi phần cứng sản xuất. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, phần mềm. Giá: 1799 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-MBA-15",
+      "name": "MacBook Air 15 inch M4",
+      "brand": "Apple",
+      "category": "Laptop Màn hình lớn",
+      "price": 2199,
+      "currency": "AUD",
+      "stock": 35,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "15.3 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "15.3 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "Liquid Retina",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Liquid Retina"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "60Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "60Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2880x1864",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2880x1864"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x Thunderbolt 4",
+            "1x MagSafe 3",
+            "1x jack 3.5mm"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x Thunderbolt 4, 1x MagSafe 3, 1x jack 3.5mm"
+        },
+        {
+          "name": "power",
+          "value": "35W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "35W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi phần cứng",
+          "confidence": "high",
+          "source_span": "lỗi phần cứng"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "hư hỏng vật lý",
+          "vào chất lỏng",
+          "phần mềm"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "MacBook Air 15 inch M4 (Apple) - Laptop Màn hình lớn Thông số: Kích thước: 15.3 inch. Tấm nền: Liquid Retina. Tần số quét: 60Hz. Độ phân giải: 2880x1864. Cổng kết nối: 2x Thunderbolt 4, 1x MagSafe 3, 1x jack 3.5mm. Công suất: 35W. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi phần cứng. Đổi trả: 14 ngày. Loại trừ: hư hỏng vật lý, vào chất lỏng, phần mềm. Giá: 2199 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-DELL-14",
+      "name": "Dell XPS 14",
+      "brand": "Dell",
+      "category": "Laptop Premium",
+      "price": 2499,
+      "currency": "AUD",
+      "stock": 20,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "14.5 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "14.5 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "OLED",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "OLED"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "120Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "120Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "3.2K 3200x2000",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3.2K 3200x2000"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x Thunderbolt 4",
+            "1x USB-C 3.2",
+            "1x microSD"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x Thunderbolt 4, 1x USB-C 3.2, 1x microSD"
+        },
+        {
+          "name": "power",
+          "value": "69.5Wh",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "69.5Wh"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12"
+        },
+        "warranty_scope": {
+          "value": "phần cứng",
+          "confidence": "high",
+          "source_span": "phần cứng"
+        },
+        "return_days": {
+          "value": 30,
+          "confidence": "high",
+          "source_span": "30"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "tự nâng cấp RAM"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "Dell XPS 14 (Dell) - Laptop Premium Thông số: Kích thước: 14.5 inch. Tấm nền: OLED. Tần số quét: 120Hz. Độ phân giải: 3.2K 3200x2000. Cổng kết nối: 2x Thunderbolt 4, 1x USB-C 3.2, 1x microSD. Công suất: 69.5WhW. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: phần cứng. Đổi trả: 30 ngày. Loại trừ: rơi vỡ, vào nước, tự nâng cấp RAM. Giá: 2499 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-DELL-16",
+      "name": "Dell XPS 16",
+      "brand": "Dell",
+      "category": "Laptop Sáng tạo",
+      "price": 3299,
+      "currency": "AUD",
+      "stock": 12,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "16.3 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "16.3 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "OLED",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "OLED"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "120Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "120Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "4K+ 3840x2400",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "4K+ 3840x2400"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x Thunderbolt 4",
+            "1x USB-C 3.2"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x Thunderbolt 4, 1x USB-C 3.2"
+        },
+        {
+          "name": "power",
+          "value": "130W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "130W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12"
+        },
+        "warranty_scope": {
+          "value": "toàn bộ phần cứng",
+          "confidence": "high",
+          "source_span": "toàn bộ phần cứng"
+        },
+        "return_days": {
+          "value": 30,
+          "confidence": "high",
+          "source_span": "30"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào chất lỏng",
+          "tự ý thay thế linh kiện"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "content creation",
+          "confidence": "high",
+          "source_span": "cho dân sáng tạo"
+        }
+      },
+      "values": [],
+      "agent_text": "Dell XPS 16 (Dell) - Laptop Sáng tạo Phù hợp cho: content creation. Thông số: Kích thước: 16.3 inch. Tấm nền: OLED. Tần số quét: 120Hz. Độ phân giải: 4K+ 3840x2400. Cổng kết nối: 2x Thunderbolt 4, 1x USB-C 3.2. Công suất: 130W. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: toàn bộ phần cứng. Đổi trả: 30 ngày. Loại trừ: rơi vỡ, vào chất lỏng, tự ý thay thế linh kiện. Giá: 3299 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-THINK-14",
+      "name": "Lenovo ThinkPad X1 Carbon Gen 12",
+      "brand": "Lenovo",
+      "category": "Laptop Doanh nhân",
+      "price": 2799,
+      "currency": "AUD",
+      "stock": 25,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "14 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "14 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "OLED",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "OLED"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "120Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "120Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2.8K 2880x1800",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2.8K OLED 2880x1800"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x Thunderbolt 4",
+            "2x USB-A 3.2",
+            "1x HDMI 2.1"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x Thunderbolt 4, 2x USB-A 3.2, 1x HDMI 2.1"
+        },
+        {
+          "name": "power",
+          "value": "57Wh",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "57Wh"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "toàn bộ phần cứng, hỗ trợ phần mềm cơ bản",
+          "confidence": "high",
+          "source_span": "toàn bộ phần cứng, hỗ trợ phần mềm cơ bản"
+        },
+        "return_days": {
+          "value": 30,
+          "confidence": "high",
+          "source_span": "30 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ ngoài phạm vi MIL-STD",
+          "vào nước"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 36 tháng"
+        }
+      ],
+      "agent_text": "Lenovo ThinkPad X1 Carbon Gen 12 (Lenovo) - Laptop Doanh nhân Thông số: Kích thước: 14 inch. Tấm nền: OLED. Tần số quét: 120Hz. Độ phân giải: 2.8K 2880x1800. Cổng kết nối: 2x Thunderbolt 4, 2x USB-A 3.2, 1x HDMI 2.1. Công suất: 57WhW. Giá trị: long_warranty. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: toàn bộ phần cứng, hỗ trợ phần mềm cơ bản. Đổi trả: 30 ngày. Loại trừ: rơi vỡ ngoài phạm vi MIL-STD, vào nước. Giá: 2799 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-THINK-16",
+      "name": "Lenovo ThinkPad T16 Gen 3",
+      "brand": "Lenovo",
+      "category": "Laptop Doanh nghiệp",
+      "price": 1899,
+      "currency": "AUD",
+      "stock": 40,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "16 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "16 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "60Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "60Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "1920x1200",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1920x1200"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x Thunderbolt 4",
+            "1x USB-C 3.2",
+            "2x USB-A 3.2",
+            "1x HDMI 2.0",
+            "1x RJ45",
+            "1x headphone"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x Thunderbolt 4, 1x USB-C 3.2, 2x USB-A 3.2, 1x HDMI 2.0, 1x RJ45, 1x headphone"
+        },
+        {
+          "name": "power",
+          "value": "45W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "45W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "phần cứng",
+          "confidence": "high",
+          "source_span": "phần cứng"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "tự nâng cấp không đúng cách"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "office_work",
+          "confidence": "high",
+          "source_span": "doanh nghiệp",
+          "note": "Inferred from 'laptop doanh nghiệp'"
+        }
+      },
+      "values": [],
+      "agent_text": "Lenovo ThinkPad T16 Gen 3 (Lenovo) - Laptop Doanh nghiệp Phù hợp cho: office_work. Thông số: Kích thước: 16 inch. Tấm nền: IPS. Tần số quét: 60Hz. Độ phân giải: 1920x1200. Cổng kết nối: 1x Thunderbolt 4, 1x USB-C 3.2, 2x USB-A 3.2, 1x HDMI 2.0, 1x RJ45, 1x headphone. Công suất: 45W. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: phần cứng. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, tự nâng cấp không đúng cách. Giá: 1899 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-ASUS-14",
+      "name": "ASUS ZenBook 14 OLED",
+      "brand": "ASUS",
+      "category": "Laptop Ultrabook",
+      "price": 1999,
+      "currency": "AUD",
+      "stock": 28,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "14 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "14 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "OLED",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "OLED"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "120Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "120Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2.8K 2880x1800",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2.8K OLED 2880x1800"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x Thunderbolt 4",
+            "1x USB-C 3.2",
+            "1x USB-A 3.2",
+            "1x HDMI 2.1",
+            "1x microSD"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x Thunderbolt 4, 1x USB-C 3.2, 1x USB-A 3.2, 1x HDMI 2.1, 1x microSD"
+        },
+        {
+          "name": "power",
+          "value": "sạc 65W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "sạc 65W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24"
+        },
+        "warranty_scope": {
+          "value": "lỗi phần cứng, bảo hành OLED burn-in 1 năm",
+          "confidence": "high",
+          "source_span": "lỗi phần cứng, bảo hành OLED burn-in 1 năm"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "tự tháo máy"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 24 tháng"
+        }
+      ],
+      "agent_text": "ASUS ZenBook 14 OLED (ASUS) - Laptop Ultrabook Thông số: Kích thước: 14 inch. Tấm nền: OLED. Tần số quét: 120Hz. Độ phân giải: 2.8K 2880x1800. Cổng kết nối: 1x Thunderbolt 4, 1x USB-C 3.2, 1x USB-A 3.2, 1x HDMI 2.1, 1x microSD. Công suất: sạc 65W. Giá trị: long_warranty. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: lỗi phần cứng, bảo hành OLED burn-in 1 năm. Đổi trả: 7 ngày. Loại trừ: rơi vỡ, vào nước, tự tháo máy. Giá: 1999 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-ASUS-16",
+      "name": "ASUS ROG Zephyrus G16",
+      "brand": "ASUS",
+      "category": "Laptop Gaming",
+      "price": 3499,
+      "currency": "AUD",
+      "stock": 18,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "16 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "16 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "Mini LED",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Mini LED"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "240Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "240Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2560x1600",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2560x1600"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x Thunderbolt 4",
+            "1x USB-C 3.2",
+            "2x USB-A 3.2",
+            "1x HDMI 2.1",
+            "1x SD card"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x Thunderbolt 4, 1x USB-C 3.2, 2x USB-A 3.2, 1x HDMI 2.1, 1x SD card"
+        },
+        {
+          "name": "power",
+          "value": "200W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "sạc 200W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": "phần cứng bao gồm GPU",
+          "confidence": "high",
+          "source_span": "phần cứng bao gồm GPU"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ, vào nước, hư hỏng do quá nhiệt khi OC"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "gaming",
+          "confidence": "high",
+          "source_span": "gaming"
+        }
+      },
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 24 tháng"
+        }
+      ],
+      "agent_text": "ASUS ROG Zephyrus G16 (ASUS) - Laptop Gaming Phù hợp cho: gaming. Thông số: Kích thước: 16 inch. Tấm nền: Mini LED. Tần số quét: 240Hz. Độ phân giải: 2560x1600. Cổng kết nối: 1x Thunderbolt 4, 1x USB-C 3.2, 2x USB-A 3.2, 1x HDMI 2.1, 1x SD card. Công suất: 200W. Giá trị: long_warranty. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: phần cứng bao gồm GPU. Đổi trả: 7 ngày. Loại trừ: rơi vỡ, vào nước, hư hỏng do quá nhiệt khi OC. Giá: 3499 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-HP-14",
+      "name": "HP Spectre x360 14",
+      "brand": "HP",
+      "category": "Laptop 2-in-1",
+      "price": 2599,
+      "currency": "AUD",
+      "stock": 22,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "14 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "14 inch"
+        },
+        {
+          "name": "resolution",
+          "value": "2.8K",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2.8K"
+        }
+      ],
+      "policy": {
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "bút stylus bị mất"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 24 tháng"
+        }
+      ],
+      "agent_text": "HP Spectre x360 14 (HP) - Laptop 2-in-1 Thông số: Kích thước: 14 inch. Độ phân giải: 2.8K. Giá trị: long_warranty. Chính sách: Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, bút stylus bị mất. Giá: 2599 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-HP-16",
+      "name": "HP ZBook Studio 16 G11",
+      "brand": "HP",
+      "category": "Laptop Workstation",
+      "price": 4299,
+      "currency": "AUD",
+      "stock": 8,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "16 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "16 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "120Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "120Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "3840x2400",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "3840x2400"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x Thunderbolt 4",
+            "1x USB-A 3.2",
+            "1x HDMI 2.1",
+            "1x SD card"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x Thunderbolt 4, 1x USB-A 3.2, 1x HDMI 2.1, 1x SD card"
+        },
+        {
+          "name": "power",
+          "value": "200W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "200W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 36,
+          "confidence": "high",
+          "source_span": "36 tháng"
+        },
+        "warranty_scope": {
+          "value": "toàn bộ phần cứng, hỗ trợ on-site ngày hôm sau",
+          "confidence": "high",
+          "source_span": "toàn bộ phần cứng, hỗ trợ on-site ngày hôm sau"
+        },
+        "return_days": {
+          "value": 30,
+          "confidence": "high",
+          "source_span": "30 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào chất lỏng",
+          "tự nâng cấp"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 36 tháng"
+        }
+      ],
+      "agent_text": "HP ZBook Studio 16 G11 (HP) - Laptop Workstation Thông số: Kích thước: 16 inch. Tấm nền: IPS. Tần số quét: 120Hz. Độ phân giải: 3840x2400. Cổng kết nối: 2x Thunderbolt 4, 1x USB-A 3.2, 1x HDMI 2.1, 1x SD card. Công suất: 200W. Giá trị: long_warranty. Chính sách: Bảo hành: 36 tháng. Phạm vi bảo hành: toàn bộ phần cứng, hỗ trợ on-site ngày hôm sau. Đổi trả: 30 ngày. Loại trừ: rơi vỡ, vào chất lỏng, tự nâng cấp. Giá: 4299 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-SURFACE-14",
+      "name": "Microsoft Surface Laptop 7",
+      "brand": "Microsoft",
+      "category": "Laptop AI",
+      "price": 2199,
+      "currency": "AUD",
+      "stock": 32,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "13.8 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "13.8 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "PixelSense Flow",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "PixelSense Flow"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "120Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "120Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2304x1536",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2304x1536"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x USB-C 4.0",
+            "1x USB-A 3.1",
+            "1x Surface Connect"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x USB-C 4.0, 1x USB-A 3.1, 1x Surface Connect"
+        },
+        {
+          "name": "power",
+          "value": "54Wh",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "54Wh"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": "12",
+          "confidence": "high",
+          "source_span": "12 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi nhà sản xuất",
+          "confidence": "high",
+          "source_span": "lỗi nhà sản xuất"
+        },
+        "return_days": {
+          "value": "60",
+          "confidence": "high",
+          "source_span": "60 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ (nếu không có Complete)",
+          "vào nước"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "Microsoft Surface Laptop 7 (Microsoft) - Laptop AI Thông số: Kích thước: 13.8 inch. Tấm nền: PixelSense Flow. Tần số quét: 120Hz. Độ phân giải: 2304x1536. Cổng kết nối: 2x USB-C 4.0, 1x USB-A 3.1, 1x Surface Connect. Công suất: 54WhW. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi nhà sản xuất. Đổi trả: 60 ngày. Loại trừ: rơi vỡ (nếu không có Complete), vào nước. Giá: 2199 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-SURFACE-15",
+      "name": "Microsoft Surface Laptop Studio 3",
+      "brand": "Microsoft",
+      "category": "Laptop Sáng tạo",
+      "price": 3599,
+      "currency": "AUD",
+      "stock": 10,
+      "specs": [],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12 tháng"
+        },
+        "warranty_scope": {
+          "value": "phần cứng",
+          "confidence": "high",
+          "source_span": "phần cứng"
+        },
+        "return_days": {
+          "value": 60,
+          "confidence": "high",
+          "source_span": "60 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "mất bút stylus",
+          "hư hỏng do sử dụng charger không chính hãng"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "low",
+          "source_span": null
+        }
+      ],
+      "agent_text": "Microsoft Surface Laptop Studio 3 (Microsoft) - Laptop Sáng tạo Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: phần cứng. Đổi trả: 60 ngày. Loại trừ: rơi vỡ, vào nước, mất bút stylus, hư hỏng do sử dụng charger không chính hãng. Giá: 3599 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-LG-16",
+      "name": "LG Gram 16 Pro",
+      "brand": "LG",
+      "category": "Laptop Siêu nhẹ",
+      "price": 2099,
+      "currency": "AUD",
+      "stock": 18,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "16 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "16 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "IPS",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "IPS"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "60Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "60Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2560x1600",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2560x1600"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x Thunderbolt 4",
+            "1x USB-A 3.2",
+            "1x HDMI 2.0",
+            "1x microSD"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x Thunderbolt 4, 1x USB-A 3.2, 1x HDMI 2.0, 1x microSD"
+        },
+        {
+          "name": "power",
+          "value": "65W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "65W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12"
+        },
+        "warranty_scope": {
+          "value": "lỗi phần cứng",
+          "confidence": "high",
+          "source_span": "lỗi phần cứng"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "tự ý tháo máy"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "LG Gram 16 Pro (LG) - Laptop Siêu nhẹ Thông số: Kích thước: 16 inch. Tấm nền: IPS. Tần số quét: 60Hz. Độ phân giải: 2560x1600. Cổng kết nối: 2x Thunderbolt 4, 1x USB-A 3.2, 1x HDMI 2.0, 1x microSD. Công suất: 65W. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi phần cứng. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, tự ý tháo máy. Giá: 2099 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-ACER-15",
+      "name": "Acer Predator Helios 16",
+      "brand": "Acer",
+      "category": "Laptop Gaming Hiệu năng cao",
+      "price": 3199,
+      "currency": "AUD",
+      "stock": 15,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "16 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "16 inch"
+        },
+        {
+          "name": "panel_type",
+          "value": "Mini LED",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Mini LED"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "250Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "250Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "2560x1600",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2560x1600"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x Thunderbolt 4",
+            "1x USB-C 3.2",
+            "3x USB-A 3.2",
+            "1x HDMI 2.1",
+            "1x Ethernet 2.5Gbps",
+            "1x SD card"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x Thunderbolt 4, 1x USB-C 3.2, 3x USB-A 3.2, 1x HDMI 2.1, 1x Ethernet 2.5Gbps, 1x SD card"
+        },
+        {
+          "name": "power",
+          "value": "330W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "330W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": "phần cứng",
+          "confidence": "high",
+          "source_span": "phần cứng"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "quá nhiệt do OC"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "gaming",
+          "confidence": "high",
+          "source_span": "gaming"
+        }
+      },
+      "values": [],
+      "agent_text": "Acer Predator Helios 16 (Acer) - Laptop Gaming Hiệu năng cao Phù hợp cho: gaming. Thông số: Kích thước: 16 inch. Tấm nền: Mini LED. Tần số quét: 250Hz. Độ phân giải: 2560x1600. Cổng kết nối: 1x Thunderbolt 4, 1x USB-C 3.2, 3x USB-A 3.2, 1x HDMI 2.1, 1x Ethernet 2.5Gbps, 1x SD card. Công suất: 330W. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: phần cứng. Đổi trả: 7 ngày. Loại trừ: rơi vỡ, vào nước, quá nhiệt do OC. Giá: 3199 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-ACER-14",
+      "name": "Acer Swift Go 14 AI",
+      "brand": "Acer",
+      "category": "Laptop AI",
+      "price": 1599,
+      "currency": "AUD",
+      "stock": 45,
+      "specs": [],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi nhà sản xuất",
+          "confidence": "high",
+          "source_span": "lỗi nhà sản xuất"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "Acer Swift Go 14 AI (Acer) - Laptop AI Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi nhà sản xuất. Đổi trả: 7 ngày. Loại trừ: rơi vỡ, vào nước. Giá: 1599 AUD. Còn hàng."
+    },
+    {
+      "sku": "LAP-RAZER-14",
+      "name": "Razer Blade 14",
+      "brand": "Razer",
+      "category": "Laptop Gaming Mỏng",
+      "price": 3799,
+      "currency": "AUD",
+      "stock": 10,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "14 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "14 inch"
+        },
+        {
+          "name": "refresh_rate",
+          "value": "240Hz",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "240Hz"
+        },
+        {
+          "name": "resolution",
+          "value": "QHD+ 2560x1600",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "QHD+ 2560x1600"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "2x USB-C 4.0",
+            "2x USB-A 3.2",
+            "1x HDMI 2.1",
+            "1x SD card"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "2x USB-C 4.0, 2x USB-A 3.2, 1x HDMI 2.1, 1x SD card"
+        },
+        {
+          "name": "power",
+          "value": "230W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "sạc 230W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi phần cứng",
+          "confidence": "high",
+          "source_span": "lỗi phần cứng"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "tự nâng cấp"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "gaming",
+          "confidence": "high",
+          "source_span": "gaming"
+        }
+      },
+      "values": [],
+      "agent_text": "Razer Blade 14 (Razer) - Laptop Gaming Mỏng Phù hợp cho: gaming. Thông số: Kích thước: 14 inch. Tần số quét: 240Hz. Độ phân giải: QHD+ 2560x1600. Cổng kết nối: 2x USB-C 4.0, 2x USB-A 3.2, 1x HDMI 2.1, 1x SD card. Công suất: 230W. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi phần cứng. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, tự nâng cấp. Giá: 3799 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-DOCK-01",
+      "name": "ProVision ThunderDock Pro",
+      "brand": "ProVision",
+      "category": "Phụ kiện Docking Station",
+      "price": 349,
+      "currency": "AUD",
+      "stock": 50,
+      "specs": [
+        {
+          "name": "connection_type",
+          "value": "Thunderbolt 4",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Thunderbolt 4"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "1x Thunderbolt 4 upstream (PD 96W)",
+            "1x Thunderbolt 4 downstream",
+            "3x USB-A 3.2",
+            "1x USB-C 3.2 front",
+            "1x HDMI 2.1",
+            "1x DisplayPort 1.4",
+            "1x RJ45 2.5Gbps",
+            "1x SD card",
+            "1x audio combo"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x Thunderbolt 4 upstream (PD 96W), 1x Thunderbolt 4 downstream, 3x USB-A 3.2, 1x USB-C 3.2 front, 1x HDMI 2.1, 1x DisplayPort 1.4, 1x RJ45 2.5Gbps, 1x SD card, 1x audio combo"
+        },
+        {
+          "name": "power",
+          "value": "180W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "180W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24"
+        },
+        "warranty_scope": {
+          "value": "phần cứng",
+          "confidence": "high",
+          "source_span": "phần cứng"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14"
+        },
+        "exclusions": [
+          "cháy do sét, hư cổng do cắm sai, tự tháo"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "ProVision ThunderDock Pro (ProVision) - Phụ kiện Docking Station Thông số: Kết nối: Thunderbolt 4. Cổng kết nối: 1x Thunderbolt 4 upstream (PD 96W), 1x Thunderbolt 4 downstream, 3x USB-A 3.2, 1x USB-C 3.2 front, 1x HDMI 2.1, 1x DisplayPort 1.4, 1x RJ45 2.5Gbps, 1x SD card, 1x audio combo. Công suất: 180W. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: phần cứng. Đổi trả: 14 ngày. Loại trừ: cháy do sét, hư cổng do cắm sai, tự tháo. Giá: 349 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-DOCK-02",
+      "name": "TechView USB-C Hub 7-in-1",
+      "brand": "TechView",
+      "category": "Phụ kiện Hub",
+      "price": 79,
+      "currency": "AUD",
+      "stock": 200,
+      "specs": [
+        {
+          "name": "ports",
+          "value": [
+            "1x USB-C PD 100W passthrough",
+            "2x USB-A 3.0",
+            "1x HDMI 4K@30Hz",
+            "1x SD card",
+            "1x microSD",
+            "1x RJ45 Gigabit"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "1x USB-C PD 100W passthrough, 2x USB-A 3.0, 1x HDMI 4K@30Hz, 1x SD card, 1x microSD, 1x RJ45 Gigabit"
+        },
+        {
+          "name": "power",
+          "value": "5W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "5W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12"
+        },
+        "warranty_scope": {
+          "value": "lỗi nhà sản xuất",
+          "confidence": "high",
+          "source_span": "lỗi nhà sản xuất"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7"
+        },
+        "exclusions": [
+          "hư cổng do cắm rút mạnh",
+          "rơi vỡ"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "TechView USB-C Hub 7-in-1 (TechView) - Phụ kiện Hub Thông số: Cổng kết nối: 1x USB-C PD 100W passthrough, 2x USB-A 3.0, 1x HDMI 4K@30Hz, 1x SD card, 1x microSD, 1x RJ45 Gigabit. Công suất: 5W. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi nhà sản xuất. Đổi trả: 7 ngày. Loại trừ: hư cổng do cắm rút mạnh, rơi vỡ. Giá: 79 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-STAND-01",
+      "name": "ProVision Monitor Arm Dual",
+      "brand": "ProVision",
+      "category": "Phụ kiện Tay đỡ",
+      "price": 199,
+      "currency": "AUD",
+      "stock": 80,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "17\" đến 32\"",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "17\" đến 32\""
+        },
+        {
+          "name": "power",
+          "value": "tải trọng mỗi cánh tay tối đa 9kg",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "tải trọng mỗi cánh tay tối đa 9kg"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 60,
+          "confidence": "high",
+          "source_span": "60"
+        },
+        "warranty_scope": {
+          "value": "cơ cấu cơ khí, piston khí",
+          "confidence": "high",
+          "source_span": "cơ cấu cơ khí, piston khí"
+        },
+        "return_days": {
+          "value": 30,
+          "confidence": "high",
+          "source_span": "30"
+        },
+        "exclusions": [
+          "quá tải, rơi vỡ"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 60 tháng"
+        }
+      ],
+      "agent_text": "ProVision Monitor Arm Dual (ProVision) - Phụ kiện Tay đỡ Thông số: Kích thước: 17\" đến 32\". Công suất: tải trọng mỗi cánh tay tối đa 9kgW. Giá trị: long_warranty. Chính sách: Bảo hành: 60 tháng. Phạm vi bảo hành: cơ cấu cơ khí, piston khí. Đổi trả: 30 ngày. Loại trừ: quá tải, rơi vỡ. Giá: 199 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-STAND-02",
+      "name": "TechView Laptop Stand Adjustable",
+      "brand": "TechView",
+      "category": "Phụ kiện Đế laptop",
+      "price": 59,
+      "currency": "AUD",
+      "stock": 150,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "10\" đến 17\"",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "10\" đến 17\""
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12"
+        },
+        "warranty_scope": {
+          "value": "lỗi cơ khí",
+          "confidence": "high",
+          "source_span": "lỗi cơ khí"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14"
+        },
+        "exclusions": [
+          "gãy do quá tải",
+          "trầy xước thẩm mỹ"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "TechView Laptop Stand Adjustable (TechView) - Phụ kiện Đế laptop Thông số: Kích thước: 10\" đến 17\". Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi cơ khí. Đổi trả: 14 ngày. Loại trừ: gãy do quá tải, trầy xước thẩm mỹ. Giá: 59 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-CABLE-01",
+      "name": "ProVision USB-C to USB-C Cable 2m",
+      "brand": "ProVision",
+      "category": "Phụ kiện Cáp",
+      "price": 39,
+      "currency": "AUD",
+      "stock": 500,
+      "specs": [
+        {
+          "name": "connection_type",
+          "value": "USB-C to USB-C",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "USB-C to USB-C"
+        },
+        {
+          "name": "power",
+          "value": "PD 240W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "PD 240W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi sản xuất",
+          "confidence": "high",
+          "source_span": "lỗi sản xuất"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "gập gãy, kéo mạnh đứt dây, cắn nát"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "Bảo hành 24 tháng"
+        }
+      ],
+      "agent_text": "ProVision USB-C to USB-C Cable 2m (ProVision) - Phụ kiện Cáp Thông số: Kết nối: USB-C to USB-C. Công suất: PD 240W. Giá trị: long_warranty. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: lỗi sản xuất. Đổi trả: 14 ngày. Loại trừ: gập gãy, kéo mạnh đứt dây, cắn nát. Giá: 39 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-CABLE-02",
+      "name": "TechView HDMI 2.1 Cable 3m",
+      "brand": "TechView",
+      "category": "Phụ kiện Cáp",
+      "price": 29,
+      "currency": "AUD",
+      "stock": 400,
+      "specs": [
+        {
+          "name": "connection_type",
+          "value": "HDMI 2.1",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "HDMI 2.1"
+        },
+        {
+          "name": "resolution",
+          "value": [
+            "4K@120Hz",
+            "8K@60Hz"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "4K@120Hz, 8K@60Hz"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12"
+        },
+        "warranty_scope": {
+          "value": "lỗi sản xuất",
+          "confidence": "high",
+          "source_span": "lỗi sản xuất"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7"
+        },
+        "exclusions": [
+          "gập gãy, kéo đứt"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "TechView HDMI 2.1 Cable 3m (TechView) - Phụ kiện Cáp Thông số: Kết nối: HDMI 2.1. Độ phân giải: 4K@120Hz, 8K@60Hz. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi sản xuất. Đổi trả: 7 ngày. Loại trừ: gập gãy, kéo đứt. Giá: 29 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-CHARGER-01",
+      "name": "ProVision GaN Charger 140W",
+      "brand": "ProVision",
+      "category": "Phụ kiện Sạc",
+      "price": 99,
+      "currency": "AUD",
+      "stock": 100,
+      "specs": [
+        {
+          "name": "power",
+          "value": "140W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "140W"
+        }
+      ],
+      "policy": {
+        "exclusions": [
+          "cháy nổ do dùng ổ điện không ổn định",
+          "rơi vỡ",
+          "tự tháo"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "Charging",
+          "confidence": "low",
+          "source_span": null,
+          "note": "Inferred from 'Sạc GaN'"
+        }
+      },
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "24 tháng"
+        }
+      ],
+      "agent_text": "ProVision GaN Charger 140W (ProVision) - Phụ kiện Sạc Thông số: Công suất: 140W. Giá trị: long_warranty. Chính sách: Loại trừ: cháy nổ do dùng ổ điện không ổn định, rơi vỡ, tự tháo. Giá: 99 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-KVM-01",
+      "name": "ProVision KVM Switch 4K Dual",
+      "brand": "ProVision",
+      "category": "Phụ kiện KVM",
+      "price": 189,
+      "currency": "AUD",
+      "stock": 35,
+      "specs": [
+        {
+          "name": "ports",
+          "value": [
+            "4x HDMI 2.0 (2 in x 2 out)",
+            "4x USB 3.0",
+            "1x audio"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "4x HDMI 2.0 (2 in x 2 out), 4x USB 3.0 chia sẻ, 1x audio"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": "phần cứng, adapter đi kèm",
+          "confidence": "high",
+          "source_span": "phần cứng, adapter đi kèm"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "cháy do sét",
+          "hư cổng do cắm sai"
+        ]
+      },
+      "outcomes": {},
+      "values": [
+        {
+          "claim": "long_warranty",
+          "confidence": "high",
+          "source_span": "24 tháng"
+        }
+      ],
+      "agent_text": "ProVision KVM Switch 4K Dual (ProVision) - Phụ kiện KVM Thông số: Cổng kết nối: 4x HDMI 2.0 (2 in x 2 out), 4x USB 3.0, 1x audio. Giá trị: long_warranty. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: phần cứng, adapter đi kèm. Đổi trả: 14 ngày. Loại trừ: cháy do sét, hư cổng do cắm sai. Giá: 189 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-WEBCAM-01",
+      "name": "ClearView StreamCam 4K",
+      "brand": "ClearView",
+      "category": "Phụ kiện Webcam",
+      "price": 179,
+      "currency": "AUD",
+      "stock": 60,
+      "specs": [
+        {
+          "name": "connection_type",
+          "value": "USB-C",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "USB-C"
+        },
+        {
+          "name": "resolution",
+          "value": [
+            "4K",
+            "1080p"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "4K@30fps hoặc 1080p@60fps"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 18,
+          "confidence": "high",
+          "source_span": "18 tháng"
+        },
+        "warranty_scope": {
+          "value": "cảm biến, mic, mạch",
+          "confidence": "high",
+          "source_span": "cảm biến, mic, mạch"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ, vào nước, trầy xước ống kính"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "streaming và họp online",
+          "confidence": "high",
+          "source_span": "streaming và họp online"
+        }
+      },
+      "values": [],
+      "agent_text": "ClearView StreamCam 4K (ClearView) - Phụ kiện Webcam Phù hợp cho: streaming và họp online. Thông số: Kết nối: USB-C. Độ phân giải: 4K, 1080p. Chính sách: Bảo hành: 18 tháng. Phạm vi bảo hành: cảm biến, mic, mạch. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, trầy xước ống kính. Giá: 179 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-MOUSE-01",
+      "name": "SpeedX ProAim Wireless",
+      "brand": "SpeedX",
+      "category": "Phụ kiện Chuột Gaming",
+      "price": 149,
+      "currency": "AUD",
+      "stock": 75,
+      "specs": [
+        {
+          "name": "connection_type",
+          "value": [
+            "wireless 2.4GHz",
+            "Bluetooth 5.3",
+            "USB-C"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "wireless 2.4GHz (polling rate 4000Hz), Bluetooth 5.3, USB-C"
+        },
+        {
+          "name": "ports",
+          "value": "USB-C",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "USB-C"
+        },
+        {
+          "name": "power",
+          "value": "Pin sạc, dùng được 100 giờ",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Pin sạc, dùng được 100 giờ"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24 tháng"
+        },
+        "warranty_scope": {
+          "value": "switch, cảm biến, pin",
+          "confidence": "high",
+          "source_span": "switch, cảm biến, pin"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ, đổ nước, tự thay switch"
+        ]
+      },
+      "outcomes": {
+        "use_cases": {
+          "value": "gaming",
+          "confidence": "high",
+          "source_span": "gaming"
+        }
+      },
+      "values": [],
+      "agent_text": "SpeedX ProAim Wireless (SpeedX) - Phụ kiện Chuột Gaming Phù hợp cho: gaming. Thông số: Kết nối: wireless 2.4GHz, Bluetooth 5.3, USB-C. Cổng kết nối: USB-C. Công suất: Pin sạc, dùng được 100 giờW. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: switch, cảm biến, pin. Đổi trả: 7 ngày. Loại trừ: rơi vỡ, đổ nước, tự thay switch. Giá: 149 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-KB-01",
+      "name": "SpeedX MechForce TKL",
+      "brand": "SpeedX",
+      "category": "Phụ kiện Bàn phím Gaming",
+      "price": 199,
+      "currency": "AUD",
+      "stock": 45,
+      "specs": [
+        {
+          "name": "connection_type",
+          "value": [
+            "wireless 2.4GHz",
+            "Bluetooth 5.3",
+            "USB-C"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "wireless 2.4GHz, Bluetooth 5.3, USB-C"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "USB-C"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "USB-C"
+        },
+        {
+          "name": "power",
+          "value": "4000mAh",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "4000mAh"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 24,
+          "confidence": "high",
+          "source_span": "24"
+        },
+        "warranty_scope": {
+          "value": [
+            "PCB",
+            "switch (đi kèm)",
+            "pin"
+          ],
+          "confidence": "high",
+          "source_span": "PCB, switch (đi kèm), pin"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7"
+        },
+        "exclusions": [
+          "đổ nước",
+          "tự mod switch gây chập",
+          "keycap phai màu do nắng"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "SpeedX MechForce TKL (SpeedX) - Phụ kiện Bàn phím Gaming Thông số: Kết nối: wireless 2.4GHz, Bluetooth 5.3, USB-C. Cổng kết nối: USB-C. Công suất: 4000mAhW. Chính sách: Bảo hành: 24 tháng. Phạm vi bảo hành: PCB, switch (đi kèm), pin. Đổi trả: 7 ngày. Loại trừ: đổ nước, tự mod switch gây chập, keycap phai màu do nắng. Giá: 199 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-HEADSET-01",
+      "name": "ClearView SonicPro ANC",
+      "brand": "ClearView",
+      "category": "Phụ kiện Tai nghe",
+      "price": 279,
+      "currency": "AUD",
+      "stock": 40,
+      "specs": [
+        {
+          "name": "connection_type",
+          "value": [
+            "Bluetooth 5.4",
+            "3.5mm"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Bluetooth 5.4 + 3.5mm"
+        },
+        {
+          "name": "power",
+          "value": "60 giờ (ANC tắt), 40 giờ (ANC bật)",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "Pin 60 giờ (ANC tắt), 40 giờ (ANC bật)"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 18,
+          "confidence": "high",
+          "source_span": "18"
+        },
+        "warranty_scope": {
+          "value": [
+            "driver",
+            "ANC",
+            "pin"
+          ],
+          "confidence": "high",
+          "source_span": "driver, ANC, pin"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14"
+        },
+        "exclusions": [
+          "rơi vỡ",
+          "vào nước",
+          "tự sửa"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "ClearView SonicPro ANC (ClearView) - Phụ kiện Tai nghe Thông số: Kết nối: Bluetooth 5.4, 3.5mm. Công suất: 60 giờ (ANC tắt), 40 giờ (ANC bật)W. Chính sách: Bảo hành: 18 tháng. Phạm vi bảo hành: driver, ANC, pin. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, tự sửa. Giá: 279 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-MAT-01",
+      "name": "SpeedX GlideZone XXL",
+      "brand": "SpeedX",
+      "category": "Phụ kiện Lót chuột",
+      "price": 49,
+      "currency": "AUD",
+      "stock": 200,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "900x400x4mm",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "900x400x4mm"
+        },
+        {
+          "name": "ports",
+          "value": "USB-C",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "USB-C"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 6,
+          "confidence": "high",
+          "source_span": "6 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi sản xuất, LED (nếu có)",
+          "confidence": "high",
+          "source_span": "lỗi sản xuất, LED (nếu có)"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7 ngày"
+        },
+        "exclusions": [
+          "bẩn do sử dụng, rách do cắt, phai màu"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "SpeedX GlideZone XXL (SpeedX) - Phụ kiện Lót chuột Thông số: Kích thước: 900x400x4mm. Cổng kết nối: USB-C. Chính sách: Bảo hành: 6 tháng. Phạm vi bảo hành: lỗi sản xuất, LED (nếu có). Đổi trả: 7 ngày. Loại trừ: bẩn do sử dụng, rách do cắt, phai màu. Giá: 49 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-ADAPTER-01",
+      "name": "TechView USB-C to DisplayPort Adapter",
+      "brand": "TechView",
+      "category": "Phụ kiện Adapter",
+      "price": 35,
+      "currency": "AUD",
+      "stock": 150,
+      "specs": [
+        {
+          "name": "connection_type",
+          "value": "USB-C sang DisplayPort 1.4",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "USB-C sang DisplayPort 1.4"
+        },
+        {
+          "name": "refresh_rate",
+          "value": [
+            "120Hz",
+            "30Hz"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "120Hz, 8K@30Hz"
+        },
+        {
+          "name": "resolution",
+          "value": [
+            "4K",
+            "8K"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "4K@120Hz, 8K@30Hz"
+        },
+        {
+          "name": "ports",
+          "value": [
+            "USB-C",
+            "DisplayPort 1.4",
+            "Thunderbolt 3/4"
+          ],
+          "unit": null,
+          "confidence": "high",
+          "source_span": "USB-C sang DisplayPort 1.4. Hỗ trợ 4K@120Hz, 8K@30Hz. Tương thích Thunderbolt 3/4."
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 12,
+          "confidence": "high",
+          "source_span": "12 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi sản xuất",
+          "confidence": "high",
+          "source_span": "lỗi sản xuất"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "gãy đầu cắm",
+          "kéo đứt dây"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "TechView USB-C to DisplayPort Adapter (TechView) - Phụ kiện Adapter Thông số: Kết nối: USB-C sang DisplayPort 1.4. Tần số quét: 120Hz, 30Hz. Độ phân giải: 4K, 8K. Cổng kết nối: USB-C, DisplayPort 1.4, Thunderbolt 3/4. Chính sách: Bảo hành: 12 tháng. Phạm vi bảo hành: lỗi sản xuất. Đổi trả: 14 ngày. Loại trừ: gãy đầu cắm, kéo đứt dây. Giá: 35 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-LIGHT-01",
+      "name": "ClearView ScreenBar Pro",
+      "brand": "ClearView",
+      "category": "Phụ kiện Đèn",
+      "price": 89,
+      "currency": "AUD",
+      "stock": 80,
+      "specs": [
+        {
+          "name": "connection_type",
+          "value": "không dây",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "không dây"
+        },
+        {
+          "name": "power",
+          "value": "5W",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "5W"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 18,
+          "confidence": "high",
+          "source_span": "18 tháng"
+        },
+        "warranty_scope": {
+          "value": "LED, cảm biến, mạch",
+          "confidence": "high",
+          "source_span": "LED, cảm biến, mạch"
+        },
+        "return_days": {
+          "value": 14,
+          "confidence": "high",
+          "source_span": "14 ngày"
+        },
+        "exclusions": [
+          "rơi vỡ, vào nước, hư kẹp do mở quá rộng"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "ClearView ScreenBar Pro (ClearView) - Phụ kiện Đèn Thông số: Kết nối: không dây. Công suất: 5W. Chính sách: Bảo hành: 18 tháng. Phạm vi bảo hành: LED, cảm biến, mạch. Đổi trả: 14 ngày. Loại trừ: rơi vỡ, vào nước, hư kẹp do mở quá rộng. Giá: 89 AUD. Còn hàng."
+    },
+    {
+      "sku": "ACC-PRIVACY-01",
+      "name": "TechView Privacy Screen 27\"",
+      "brand": "TechView",
+      "category": "Phụ kiện Tấm chống nhìn trộm",
+      "price": 69,
+      "currency": "AUD",
+      "stock": 60,
+      "specs": [
+        {
+          "name": "screen_size",
+          "value": "27 inch",
+          "unit": null,
+          "confidence": "high",
+          "source_span": "27 inch"
+        }
+      ],
+      "policy": {
+        "warranty_months": {
+          "value": 6,
+          "confidence": "high",
+          "source_span": "6 tháng"
+        },
+        "warranty_scope": {
+          "value": "lỗi lớp film",
+          "confidence": "high",
+          "source_span": "lỗi lớp film"
+        },
+        "return_days": {
+          "value": 7,
+          "confidence": "high",
+          "source_span": "7 ngày"
+        },
+        "exclusions": [
+          "trầy xước do sử dụng",
+          "gãy do bẻ"
+        ]
+      },
+      "outcomes": {},
+      "values": [],
+      "agent_text": "TechView Privacy Screen 27\" (TechView) - Phụ kiện Tấm chống nhìn trộm Thông số: Kích thước: 27 inch. Chính sách: Bảo hành: 6 tháng. Phạm vi bảo hành: lỗi lớp film. Đổi trả: 7 ngày. Loại trừ: trầy xước do sử dụng, gãy do bẻ. Giá: 69 AUD. Còn hàng."
+    }
+  ],
+  "relations": [
+    {
+      "sku_a": "MON-27-4K-01",
+      "sku_b": "ACC-DOCK-01",
+      "type": "completes_outcome",
+      "outcome": "office_work",
+      "note": "USB-C dock mở rộng kết nối cho workstation"
+    },
+    {
+      "sku_a": "MON-27-4K-01",
+      "sku_b": "ACC-STAND-01",
+      "type": "completes_outcome",
+      "outcome": "graphic_design",
+      "note": "Chân đế ergonomic cho làm việc dài"
+    },
+    {
+      "sku_a": "MON-27-4K-01",
+      "sku_b": "ACC-LIGHT-01",
+      "type": "completes_outcome",
+      "outcome": "video_calls",
+      "note": "Đèn màn hình giảm mỏi mắt"
+    },
+    {
+      "sku_a": "MON-27-4K-01",
+      "sku_b": "ACC-PRIVACY-01",
+      "type": "completes_outcome",
+      "outcome": "office_work",
+      "note": "Tấm chống nhìn trộm cho văn phòng"
+    },
+    {
+      "sku_a": "MON-27-4K-01",
+      "sku_b": "ACC-CABLE-01",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Cáp USB-C to DisplayPort chất lượng cao"
+    },
+    {
+      "sku_a": "MON-32-4K-03",
+      "sku_b": "ACC-DOCK-01",
+      "type": "completes_outcome",
+      "outcome": "graphic_design",
+      "note": "USB-C dock cho workflow đồ họa"
+    },
+    {
+      "sku_a": "MON-32-4K-03",
+      "sku_b": "ACC-STAND-01",
+      "type": "completes_outcome",
+      "outcome": "graphic_design",
+      "note": "Monitor arm cho posture tốt hơn"
+    },
+    {
+      "sku_a": "MON-32-4K-03",
+      "sku_b": "ACC-LIGHT-01",
+      "type": "completes_outcome",
+      "outcome": "graphic_design",
+      "note": "Đèn màn hình cho color accuracy"
+    },
+    {
+      "sku_a": "MON-27-QHD-02",
+      "sku_b": "ACC-STAND-01",
+      "type": "completes_outcome",
+      "outcome": "gaming",
+      "note": "Chân đế điều chỉnh chiều cao cho gaming"
+    },
+    {
+      "sku_a": "MON-27-5K-11",
+      "sku_b": "ACC-DOCK-01",
+      "type": "completes_outcome",
+      "outcome": "graphic_design",
+      "note": "Thunderbolt dock cho workflow chuyên nghiệp"
+    },
+    {
+      "sku_a": "MON-34-UW-05",
+      "sku_b": "ACC-DOCK-01",
+      "type": "completes_outcome",
+      "outcome": "office_work",
+      "note": "USB-C dock cho đa nhiệm ultrawide"
+    },
+    {
+      "sku_a": "MON-49-SUW-07",
+      "sku_b": "ACC-DOCK-01",
+      "type": "completes_outcome",
+      "outcome": "office_work",
+      "note": "KVM dock cho multi-source workflow"
+    },
+    {
+      "sku_a": "MON-27-OLED-13",
+      "sku_b": "ACC-STAND-01",
+      "type": "completes_outcome",
+      "outcome": "graphic_design",
+      "note": "Monitor arm bảo vệ panel OLED"
+    },
+    {
+      "sku_a": "MON-34-OLED-28",
+      "sku_b": "ACC-DOCK-01",
+      "type": "completes_outcome",
+      "outcome": "video_editing",
+      "note": "USB-C dock cho video editing workflow"
+    },
+    {
+      "sku_a": "MON-27-QHD-18",
+      "sku_b": "ACC-DOCK-02",
+      "type": "completes_outcome",
+      "outcome": "office_work",
+      "note": "USB-C dock nhỏ gọn cho ultrabook"
+    },
+    {
+      "sku_a": "MON-27-NANO-26",
+      "sku_b": "ACC-DOCK-02",
+      "type": "completes_outcome",
+      "outcome": "office_work",
+      "note": "Dock adapter cho kết nối nhanh"
+    },
+    {
+      "sku_a": "ACC-ADAPTER-01",
+      "sku_b": "MON-27-4K-01",
+      "type": "required_with",
+      "outcome": "",
+      "note": "Adapter bắt buộc cho laptop không có USB-C"
+    },
+    {
+      "sku_a": "ACC-ADAPTER-01",
+      "sku_b": "MON-32-4K-03",
+      "type": "required_with",
+      "outcome": "",
+      "note": "Adapter cần thiết khi laptop chỉ có HDMI"
+    },
+    {
+      "sku_a": "MON-27-4K-01",
+      "sku_b": "MON-27-QHD-02",
+      "type": "alternative_to",
+      "outcome": "",
+      "note": "QHD rẻ hơn nhưng độ phân giải thấp hơn"
+    },
+    {
+      "sku_a": "MON-32-4K-03",
+      "sku_b": "MON-32-QHD-09",
+      "type": "alternative_to",
+      "outcome": "",
+      "note": "QHD giá mềm hơn cho designer budget"
+    },
+    {
+      "sku_a": "MON-27-OLED-13",
+      "sku_b": "MON-27-4K-01",
+      "type": "upgrade_of",
+      "outcome": "",
+      "note": "OLED upgrade từ IPS cho màu sắc tốt hơn"
+    },
+    {
+      "sku_a": "MON-27-5K-11",
+      "sku_b": "MON-32-4K-03",
+      "type": "upgrade_of",
+      "outcome": "",
+      "note": "5K upgrade từ 4K cho pixel density cao hơn"
+    },
+    {
+      "sku_a": "MON-27-4K-01",
+      "sku_b": "LAP-MBP-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 14"
+    },
+    {
+      "sku_a": "MON-27-4K-01",
+      "sku_b": "LAP-MBP-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 16"
+    },
+    {
+      "sku_a": "MON-27-4K-01",
+      "sku_b": "LAP-MBA-13",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Air 13"
+    },
+    {
+      "sku_a": "MON-27-4K-01",
+      "sku_b": "LAP-DELL-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích Dell Latitude 14"
+    },
+    {
+      "sku_a": "MON-32-4K-03",
+      "sku_b": "LAP-MBP-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 14"
+    },
+    {
+      "sku_a": "MON-32-4K-03",
+      "sku_b": "LAP-MBP-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 16"
+    },
+    {
+      "sku_a": "MON-32-4K-03",
+      "sku_b": "LAP-HP-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích HP ZBook 16"
+    },
+    {
+      "sku_a": "MON-27-5K-11",
+      "sku_b": "LAP-MBP-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 14"
+    },
+    {
+      "sku_a": "MON-27-5K-11",
+      "sku_b": "LAP-MBP-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 16"
+    },
+    {
+      "sku_a": "MON-27-OLED-13",
+      "sku_b": "LAP-MBP-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 14"
+    },
+    {
+      "sku_a": "MON-27-OLED-13",
+      "sku_b": "LAP-DELL-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích Dell XPS 16"
+    },
+    {
+      "sku_a": "MON-34-UW-05",
+      "sku_b": "LAP-MBP-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 14"
+    },
+    {
+      "sku_a": "MON-34-UW-05",
+      "sku_b": "LAP-THINK-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích ThinkPad X1 Carbon 14"
+    },
+    {
+      "sku_a": "MON-49-SUW-07",
+      "sku_b": "LAP-MBP-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 16"
+    },
+    {
+      "sku_a": "MON-49-SUW-07",
+      "sku_b": "LAP-HP-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích HP ZBook 16"
+    },
+    {
+      "sku_a": "MON-27-QHD-18",
+      "sku_b": "LAP-MBA-13",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Air 13"
+    },
+    {
+      "sku_a": "MON-27-QHD-18",
+      "sku_b": "LAP-MBA-15",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Air 15"
+    },
+    {
+      "sku_a": "MON-27-NANO-26",
+      "sku_b": "LAP-MBA-15",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Air 15"
+    },
+    {
+      "sku_a": "MON-27-NANO-26",
+      "sku_b": "LAP-ASUS-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích ASUS ZenBook 14"
+    },
+    {
+      "sku_a": "MON-34-OLED-28",
+      "sku_b": "LAP-MBP-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 16"
+    },
+    {
+      "sku_a": "MON-34-OLED-28",
+      "sku_b": "LAP-DELL-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích Dell XPS 16"
+    },
+    {
+      "sku_a": "ACC-DOCK-01",
+      "sku_b": "LAP-MBP-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 14"
+    },
+    {
+      "sku_a": "ACC-DOCK-01",
+      "sku_b": "LAP-MBP-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 16"
+    },
+    {
+      "sku_a": "ACC-DOCK-01",
+      "sku_b": "LAP-DELL-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích Dell Latitude 14"
+    },
+    {
+      "sku_a": "ACC-DOCK-01",
+      "sku_b": "LAP-THINK-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích ThinkPad X1 Carbon 14"
+    },
+    {
+      "sku_a": "ACC-DOCK-02",
+      "sku_b": "LAP-MBA-13",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Air 13"
+    },
+    {
+      "sku_a": "ACC-DOCK-02",
+      "sku_b": "LAP-MBA-15",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Air 15"
+    },
+    {
+      "sku_a": "ACC-DOCK-02",
+      "sku_b": "LAP-SURFACE-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích Surface Pro"
+    },
+    {
+      "sku_a": "ACC-CABLE-01",
+      "sku_b": "LAP-MBP-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 14"
+    },
+    {
+      "sku_a": "ACC-CABLE-01",
+      "sku_b": "LAP-MBP-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích MacBook Pro 16"
+    },
+    {
+      "sku_a": "ACC-CABLE-01",
+      "sku_b": "LAP-DELL-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Tương thích Dell Latitude 14"
+    },
+    {
+      "sku_a": "ACC-CHARGER-01",
+      "sku_b": "LAP-MBP-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Sạc nhanh cho MacBook Pro 14"
+    },
+    {
+      "sku_a": "ACC-CHARGER-01",
+      "sku_b": "LAP-MBP-16",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Sạc nhanh cho MacBook Pro 16"
+    },
+    {
+      "sku_a": "ACC-CHARGER-01",
+      "sku_b": "LAP-DELL-14",
+      "type": "completes_outcome",
+      "outcome": "",
+      "note": "Sạc nhanh cho Dell Latitude 14"
+    }
+  ],
+  "value_taxonomy": [
+    "sustainable_materials",
+    "recyclable_packaging",
+    "repairability",
+    "long_warranty",
+    "local_manufacturing",
+    "ethical_sourcing",
+    "energy_efficiency",
+    "carbon_disclosure"
+  ]
+}

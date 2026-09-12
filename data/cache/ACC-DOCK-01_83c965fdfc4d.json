@@ -1,0 +1,47 @@
+{
+  "connection_type": {
+    "value": "Thunderbolt 4",
+    "source_span": "Thunderbolt 4",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "1x Thunderbolt 4 upstream (PD 96W)",
+      "1x Thunderbolt 4 downstream",
+      "3x USB-A 3.2",
+      "1x USB-C 3.2 front",
+      "1x HDMI 2.1",
+      "1x DisplayPort 1.4",
+      "1x RJ45 2.5Gbps",
+      "1x SD card",
+      "1x audio combo"
+    ],
+    "source_span": "1x Thunderbolt 4 upstream (PD 96W), 1x Thunderbolt 4 downstream, 3x USB-A 3.2, 1x USB-C 3.2 front, 1x HDMI 2.1, 1x DisplayPort 1.4, 1x RJ45 2.5Gbps, 1x SD card, 1x audio combo",
+    "note": null
+  },
+  "power": {
+    "value": "180W",
+    "source_span": "180W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "phần cứng",
+    "source_span": "phần cứng",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14",
+    "note": null
+  },
+  "exclusions": {
+    "value": "cháy do sét, hư cổng do cắm sai, tự tháo",
+    "source_span": "cháy do sét, hư cổng do cắm sai, tự tháo",
+    "note": null
+  }
+}

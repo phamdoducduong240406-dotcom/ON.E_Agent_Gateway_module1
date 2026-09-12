@@ -1,0 +1,51 @@
+{
+  "connection_type": {
+    "value": [
+      "wireless 2.4GHz",
+      "Bluetooth 5.3",
+      "USB-C"
+    ],
+    "source_span": "wireless 2.4GHz, Bluetooth 5.3, USB-C",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "USB-C"
+    ],
+    "source_span": "USB-C",
+    "note": null
+  },
+  "power": {
+    "value": "4000mAh",
+    "source_span": "4000mAh",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": [
+      "PCB",
+      "switch (đi kèm)",
+      "pin"
+    ],
+    "source_span": "PCB, switch (đi kèm), pin",
+    "note": null
+  },
+  "return_days": {
+    "value": 7,
+    "source_span": "7",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "đổ nước",
+      "tự mod switch gây chập",
+      "keycap phai màu do nắng"
+    ],
+    "source_span": "đổ nước, tự mod switch gây chập, keycap phai màu do nắng",
+    "note": null
+  }
+}

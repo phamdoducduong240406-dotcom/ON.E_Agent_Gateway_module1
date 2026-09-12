@@ -1,0 +1,41 @@
+{
+  "ports": {
+    "value": [
+      "4x HDMI 2.0 (2 in x 2 out)",
+      "4x USB 3.0",
+      "1x audio"
+    ],
+    "source_span": "4x HDMI 2.0 (2 in x 2 out), 4x USB 3.0 chia sẻ, 1x audio",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "phần cứng, adapter đi kèm",
+    "source_span": "phần cứng, adapter đi kèm",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "cháy do sét",
+      "hư cổng do cắm sai"
+    ],
+    "source_span": "cháy do sét, hư cổng do cắm sai",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "24 tháng",
+      "note": "Extracted from warranty duration of 24 months."
+    }
+  ]
+}

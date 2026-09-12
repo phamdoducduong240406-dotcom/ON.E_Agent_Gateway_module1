@@ -1,0 +1,68 @@
+{
+  "screen_size": {
+    "value": "32 inch",
+    "source_span": "32 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "VA",
+    "source_span": "VA",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "165Hz",
+    "source_span": "165Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "2560x1440 QHD",
+    "source_span": "2560x1440 QHD",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x HDMI 2.0",
+      "1x DisplayPort 1.4",
+      "1x USB-C"
+    ],
+    "source_span": "2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C",
+    "note": null
+  },
+  "power": {
+    "value": "45W",
+    "source_span": "45W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": [
+      "panel",
+      "đèn LED"
+    ],
+    "source_span": "panel, đèn LED",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "hư hỏng vật lý",
+      "vào chất lỏng"
+    ],
+    "source_span": "hư hỏng vật lý, vào chất lỏng",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "note": "Inferred from 24 months warranty"
+    }
+  ]
+}

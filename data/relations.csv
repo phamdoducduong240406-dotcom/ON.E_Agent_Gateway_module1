@@ -1,0 +1,57 @@
+sku_a,sku_b,type,outcome,note
+MON-27-4K-01,ACC-DOCK-01,completes_outcome,office_work,USB-C dock mở rộng kết nối cho workstation
+MON-27-4K-01,ACC-STAND-01,completes_outcome,graphic_design,Chân đế ergonomic cho làm việc dài
+MON-27-4K-01,ACC-LIGHT-01,completes_outcome,video_calls,Đèn màn hình giảm mỏi mắt
+MON-27-4K-01,ACC-PRIVACY-01,completes_outcome,office_work,Tấm chống nhìn trộm cho văn phòng
+MON-27-4K-01,ACC-CABLE-01,completes_outcome,,Cáp USB-C to DisplayPort chất lượng cao
+MON-32-4K-03,ACC-DOCK-01,completes_outcome,graphic_design,USB-C dock cho workflow đồ họa
+MON-32-4K-03,ACC-STAND-01,completes_outcome,graphic_design,Monitor arm cho posture tốt hơn
+MON-32-4K-03,ACC-LIGHT-01,completes_outcome,graphic_design,Đèn màn hình cho color accuracy
+MON-27-QHD-02,ACC-STAND-01,completes_outcome,gaming,Chân đế điều chỉnh chiều cao cho gaming
+MON-27-5K-11,ACC-DOCK-01,completes_outcome,graphic_design,Thunderbolt dock cho workflow chuyên nghiệp
+MON-34-UW-05,ACC-DOCK-01,completes_outcome,office_work,USB-C dock cho đa nhiệm ultrawide
+MON-49-SUW-07,ACC-DOCK-01,completes_outcome,office_work,KVM dock cho multi-source workflow
+MON-27-OLED-13,ACC-STAND-01,completes_outcome,graphic_design,Monitor arm bảo vệ panel OLED
+MON-34-OLED-28,ACC-DOCK-01,completes_outcome,video_editing,USB-C dock cho video editing workflow
+MON-27-QHD-18,ACC-DOCK-02,completes_outcome,office_work,USB-C dock nhỏ gọn cho ultrabook
+MON-27-NANO-26,ACC-DOCK-02,completes_outcome,office_work,Dock adapter cho kết nối nhanh
+ACC-ADAPTER-01,MON-27-4K-01,required_with,,Adapter bắt buộc cho laptop không có USB-C
+ACC-ADAPTER-01,MON-32-4K-03,required_with,,Adapter cần thiết khi laptop chỉ có HDMI
+MON-27-4K-01,MON-27-QHD-02,alternative_to,,QHD rẻ hơn nhưng độ phân giải thấp hơn
+MON-32-4K-03,MON-32-QHD-09,alternative_to,,QHD giá mềm hơn cho designer budget
+MON-27-OLED-13,MON-27-4K-01,upgrade_of,,OLED upgrade từ IPS cho màu sắc tốt hơn
+MON-27-5K-11,MON-32-4K-03,upgrade_of,,5K upgrade từ 4K cho pixel density cao hơn
+MON-27-4K-01,LAP-MBP-14,completes_outcome,,Tương thích MacBook Pro 14
+MON-27-4K-01,LAP-MBP-16,completes_outcome,,Tương thích MacBook Pro 16
+MON-27-4K-01,LAP-MBA-13,completes_outcome,,Tương thích MacBook Air 13
+MON-27-4K-01,LAP-DELL-14,completes_outcome,,Tương thích Dell Latitude 14
+MON-32-4K-03,LAP-MBP-14,completes_outcome,,Tương thích MacBook Pro 14
+MON-32-4K-03,LAP-MBP-16,completes_outcome,,Tương thích MacBook Pro 16
+MON-32-4K-03,LAP-HP-16,completes_outcome,,Tương thích HP ZBook 16
+MON-27-5K-11,LAP-MBP-14,completes_outcome,,Tương thích MacBook Pro 14
+MON-27-5K-11,LAP-MBP-16,completes_outcome,,Tương thích MacBook Pro 16
+MON-27-OLED-13,LAP-MBP-14,completes_outcome,,Tương thích MacBook Pro 14
+MON-27-OLED-13,LAP-DELL-16,completes_outcome,,Tương thích Dell XPS 16
+MON-34-UW-05,LAP-MBP-14,completes_outcome,,Tương thích MacBook Pro 14
+MON-34-UW-05,LAP-THINK-14,completes_outcome,,Tương thích ThinkPad X1 Carbon 14
+MON-49-SUW-07,LAP-MBP-16,completes_outcome,,Tương thích MacBook Pro 16
+MON-49-SUW-07,LAP-HP-16,completes_outcome,,Tương thích HP ZBook 16
+MON-27-QHD-18,LAP-MBA-13,completes_outcome,,Tương thích MacBook Air 13
+MON-27-QHD-18,LAP-MBA-15,completes_outcome,,Tương thích MacBook Air 15
+MON-27-NANO-26,LAP-MBA-15,completes_outcome,,Tương thích MacBook Air 15
+MON-27-NANO-26,LAP-ASUS-14,completes_outcome,,Tương thích ASUS ZenBook 14
+MON-34-OLED-28,LAP-MBP-16,completes_outcome,,Tương thích MacBook Pro 16
+MON-34-OLED-28,LAP-DELL-16,completes_outcome,,Tương thích Dell XPS 16
+ACC-DOCK-01,LAP-MBP-14,completes_outcome,,Tương thích MacBook Pro 14
+ACC-DOCK-01,LAP-MBP-16,completes_outcome,,Tương thích MacBook Pro 16
+ACC-DOCK-01,LAP-DELL-14,completes_outcome,,Tương thích Dell Latitude 14
+ACC-DOCK-01,LAP-THINK-14,completes_outcome,,Tương thích ThinkPad X1 Carbon 14
+ACC-DOCK-02,LAP-MBA-13,completes_outcome,,Tương thích MacBook Air 13
+ACC-DOCK-02,LAP-MBA-15,completes_outcome,,Tương thích MacBook Air 15
+ACC-DOCK-02,LAP-SURFACE-14,completes_outcome,,Tương thích Surface Pro
+ACC-CABLE-01,LAP-MBP-14,completes_outcome,,Tương thích MacBook Pro 14
+ACC-CABLE-01,LAP-MBP-16,completes_outcome,,Tương thích MacBook Pro 16
+ACC-CABLE-01,LAP-DELL-14,completes_outcome,,Tương thích Dell Latitude 14
+ACC-CHARGER-01,LAP-MBP-14,completes_outcome,,Sạc nhanh cho MacBook Pro 14
+ACC-CHARGER-01,LAP-MBP-16,completes_outcome,,Sạc nhanh cho MacBook Pro 16
+ACC-CHARGER-01,LAP-DELL-14,completes_outcome,,Sạc nhanh cho Dell Latitude 14

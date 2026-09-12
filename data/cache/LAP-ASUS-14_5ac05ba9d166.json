@@ -1,0 +1,69 @@
+{
+  "screen_size": {
+    "value": "14 inch",
+    "source_span": "14 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "OLED",
+    "source_span": "OLED",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "120Hz",
+    "source_span": "120Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "2.8K 2880x1800",
+    "source_span": "2.8K OLED 2880x1800",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "1x Thunderbolt 4",
+      "1x USB-C 3.2",
+      "1x USB-A 3.2",
+      "1x HDMI 2.1",
+      "1x microSD"
+    ],
+    "source_span": "1x Thunderbolt 4, 1x USB-C 3.2, 1x USB-A 3.2, 1x HDMI 2.1, 1x microSD",
+    "note": null
+  },
+  "power": {
+    "value": "sạc 65W",
+    "source_span": "sạc 65W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi phần cứng, bảo hành OLED burn-in 1 năm",
+    "source_span": "lỗi phần cứng, bảo hành OLED burn-in 1 năm",
+    "note": null
+  },
+  "return_days": {
+    "value": 7,
+    "source_span": "7",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "tự tháo máy"
+    ],
+    "source_span": "rơi vỡ, vào nước, tự tháo máy",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 24 tháng",
+      "note": "24 months warranty qualifies for long_warranty"
+    }
+  ]
+}

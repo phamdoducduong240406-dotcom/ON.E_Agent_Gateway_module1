@@ -1,0 +1,67 @@
+{
+  "screen_size": {
+    "value": "16 inch",
+    "source_span": "16 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "IPS",
+    "source_span": "IPS",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "120Hz",
+    "source_span": "120Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "3840x2400",
+    "source_span": "3840x2400",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x Thunderbolt 4",
+      "1x USB-A 3.2",
+      "1x HDMI 2.1",
+      "1x SD card"
+    ],
+    "source_span": "2x Thunderbolt 4, 1x USB-A 3.2, 1x HDMI 2.1, 1x SD card",
+    "note": null
+  },
+  "power": {
+    "value": "200W",
+    "source_span": "200W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 36,
+    "source_span": "36 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "toàn bộ phần cứng, hỗ trợ on-site ngày hôm sau",
+    "source_span": "toàn bộ phần cứng, hỗ trợ on-site ngày hôm sau",
+    "note": null
+  },
+  "return_days": {
+    "value": 30,
+    "source_span": "30 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào chất lỏng",
+      "tự nâng cấp"
+    ],
+    "source_span": "rơi vỡ, vào chất lỏng, tự nâng cấp",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 36 tháng"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "screen_size": {
+    "value": "17.3 inch",
+    "source_span": "17.3 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "IPS",
+    "source_span": "IPS",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "60Hz",
+    "source_span": "60Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "1920x1080",
+    "source_span": "1920x1080",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "4x SDI (1 in, 3 out)",
+      "1x HDMI 2.0",
+      "1x USB-C"
+    ],
+    "source_span": "4x SDI (1 in, 3 out), 1x HDMI 2.0, 1x USB-C",
+    "note": null
+  },
+  "power": {
+    "value": "18W",
+    "source_span": "18W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "toàn bộ trừ pin",
+    "source_span": "toàn bộ trừ pin",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi từ trên 1m",
+      "ngập nước",
+      "tự sửa"
+    ],
+    "source_span": "rơi từ trên 1m, ngập nước, tự sửa",
+    "note": null
+  },
+  "use_cases": {
+    "value": "videography",
+    "source_span": "Sản xuất video",
+    "note": null
+  },
+  "environment": {
+    "value": "outdoor",
+    "source_span": "ngoài trời",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 24 tháng"
+    }
+  ]
+}

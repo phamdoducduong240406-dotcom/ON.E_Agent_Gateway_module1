@@ -1,0 +1,62 @@
+{
+  "screen_size": {
+    "value": "34 inch",
+    "source_span": "34 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "VA",
+    "source_span": "VA",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "100Hz",
+    "source_span": "100Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "UWQHD 3440x1440",
+    "source_span": "UWQHD 3440x1440",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x HDMI 2.0",
+      "1x DisplayPort 1.4",
+      "1x USB-C 65W",
+      "hub USB 3.0 x2"
+    ],
+    "source_span": "2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C 65W, hub USB 3.0 x2",
+    "note": null
+  },
+  "power": {
+    "value": "60W",
+    "source_span": "60W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 36,
+    "source_span": "36 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "toàn bộ linh kiện phần cứng",
+    "source_span": "toàn bộ linh kiện phần cứng",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "sử dụng sai nguồn điện",
+      "tự tháo lắp"
+    ],
+    "source_span": "rơi vỡ, vào nước, sử dụng sai nguồn điện, tự tháo lắp",
+    "note": null
+  }
+}

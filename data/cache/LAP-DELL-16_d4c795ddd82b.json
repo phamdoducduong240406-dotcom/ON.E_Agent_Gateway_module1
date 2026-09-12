@@ -1,0 +1,64 @@
+{
+  "screen_size": {
+    "value": "16.3 inch",
+    "source_span": "16.3 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "OLED",
+    "source_span": "OLED",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": "120Hz",
+    "source_span": "120Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": "4K+ 3840x2400",
+    "source_span": "4K+ 3840x2400",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "2x Thunderbolt 4",
+      "1x USB-C 3.2"
+    ],
+    "source_span": "2x Thunderbolt 4, 1x USB-C 3.2",
+    "note": null
+  },
+  "power": {
+    "value": "130W",
+    "source_span": "130W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "toàn bộ phần cứng",
+    "source_span": "toàn bộ phần cứng",
+    "note": null
+  },
+  "return_days": {
+    "value": 30,
+    "source_span": "30",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào chất lỏng",
+      "tự ý thay thế linh kiện"
+    ],
+    "source_span": "rơi vỡ, vào chất lỏng, tự ý thay thế linh kiện",
+    "note": null
+  },
+  "use_cases": {
+    "value": "content creation",
+    "source_span": "cho dân sáng tạo",
+    "note": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi nhà sản xuất",
+    "source_span": "lỗi nhà sản xuất",
+    "note": null
+  },
+  "return_days": {
+    "value": 7,
+    "source_span": "7 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước"
+    ],
+    "source_span": "rơi vỡ, vào nước",
+    "note": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "connection_type": {
+    "value": "USB-C to USB-C",
+    "source_span": "USB-C to USB-C",
+    "note": null
+  },
+  "power": {
+    "value": "PD 240W",
+    "source_span": "PD 240W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi sản xuất",
+    "source_span": "lỗi sản xuất",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": "gập gãy, kéo mạnh đứt dây, cắn nát",
+    "source_span": "gập gãy, kéo mạnh đứt dây, cắn nát",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "Bảo hành 24 tháng"
+    }
+  ]
+}

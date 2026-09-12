@@ -1,0 +1,43 @@
+{
+  "connection_type": {
+    "value": [
+      "Bluetooth 5.4",
+      "3.5mm"
+    ],
+    "source_span": "Bluetooth 5.4 + 3.5mm",
+    "note": null
+  },
+  "power": {
+    "value": "60 giờ (ANC tắt), 40 giờ (ANC bật)",
+    "source_span": "Pin 60 giờ (ANC tắt), 40 giờ (ANC bật)",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 18,
+    "source_span": "18",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": [
+      "driver",
+      "ANC",
+      "pin"
+    ],
+    "source_span": "driver, ANC, pin",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "tự sửa"
+    ],
+    "source_span": "rơi vỡ, vào nước (không có IP rating), tự sửa",
+    "note": null
+  }
+}

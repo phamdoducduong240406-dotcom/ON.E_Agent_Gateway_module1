@@ -1,0 +1,87 @@
+[
+  {
+    "query": "màn hình 144Hz",
+    "expect_top3": ["MON-27-4K-01", "MON-27-OLED-13", "MON-27-4K-19"],
+    "tests": "Thông số đơn: extraction có lấy được refresh_rate"
+  },
+  {
+    "query": "màn hình tấm nền IPS 4K",
+    "expect_top3": ["MON-27-4K-01", "MON-32-4K-03", "MON-27-NANO-26"],
+    "tests": "Thông số đơn: panel_type + resolution"
+  },
+  {
+    "query": "monitor OLED tần số quét cao",
+    "expect_top3": ["MON-27-OLED-13", "MON-34-OLED-28", "MON-16-OLED-22"],
+    "tests": "Thông số đơn: panel_type OLED + refresh_rate"
+  },
+  {
+    "query": "màn 4K cắm USB-C sạc luôn laptop",
+    "expect_top3": ["MON-27-4K-01", "MON-32-4K-03", "MON-27-NANO-26"],
+    "tests": "Thông số kết hợp: resolution + ports USB-C PD"
+  },
+  {
+    "query": "màn hình 27 inch QHD tần số quét trên 100Hz có DisplayPort",
+    "expect_top3": ["MON-27-QHD-02", "MON-27-QHD-18", "MON-27-GAME-24"],
+    "tests": "Thông số kết hợp: screen_size + resolution + refresh_rate + ports"
+  },
+  {
+    "query": "màn hình cong ultrawide cho đa nhiệm có USB-C và loa tích hợp",
+    "expect_top3": ["MON-34-UW-05", "MON-49-SUW-07", "MON-34-OLED-28"],
+    "tests": "Thông số kết hợp: curved + ultrawide + ports + features"
+  },
+  {
+    "query": "màn hình dùng được với MacBook Pro 14",
+    "expect_top3": ["MON-27-4K-01", "MON-32-4K-03", "MON-27-5K-11"],
+    "tests": "Tương thích: bảng relations, cần tìm qua compatible_with"
+  },
+  {
+    "query": "phụ kiện kết nối cho MacBook Air 13",
+    "expect_top3": ["ACC-DOCK-01", "ACC-DOCK-02", "ACC-CABLE-01"],
+    "tests": "Tương thích: bảng relations cho phụ kiện"
+  },
+  {
+    "query": "màn hình bảo hành trên 2 năm",
+    "expect_top3": ["MON-27-4K-01", "MON-32-4K-03", "MON-34-UW-05"],
+    "tests": "Chính sách: warranty_months >= 24 phải vào embedding"
+  },
+  {
+    "query": "màn hình đổi trả 30 ngày không cần lý do",
+    "expect_top3": ["MON-32-4K-03", "MON-49-SUW-07", "MON-27-5K-11"],
+    "tests": "Chính sách: return_days + warranty_scope"
+  },
+  {
+    "query": "monitor gaming dưới 1000 đô",
+    "expect_top3": ["MON-27-QHD-02", "MON-27-FHD-06", "MON-24-FHD-10"],
+    "expect_bundle": null,
+    "tests": "Ràng buộc giá: giá phải có trong agent_text, budget hard filter"
+  },
+  {
+    "query": "màn hình đồ hoạ dưới 1000 AUD với độ chính xác màu cao",
+    "expect_top3": ["MON-32-QHD-09", "MON-24-PRO-27", "MON-32-4K-03"],
+    "expect_bundle": null,
+    "tests": "Ràng buộc giá: price + color accuracy"
+  },
+  {
+    "query": "cheap second screen for spreadsheets",
+    "expect_top3": ["MON-24-FHD-04", "MON-21-FHD-17", "MON-24-FHD-10"],
+    "tests": "Đa ngôn ngữ EN: embedding model xử lý cross-lingual VI/EN"
+  },
+  {
+    "query": "best portable monitor for travel under 500 dollars",
+    "expect_top3": ["MON-15-FHD-12", "MON-16-OLED-22", "MON-24-FHD-04"],
+    "expect_bundle": null,
+    "tests": "Đa ngôn ngữ EN: English query tìm trong Vietnamese catalog + budget constraint"
+  },
+  {
+    "query": "bộ màn hình cho designer mới vào nghề, dưới 1200 AUD",
+    "expect_top3": ["MON-32-QHD-09", "MON-27-4K-01", "MON-32-4K-03"],
+    "expect_bundle": ["MON-32-QHD-09", "ACC-STAND-01"],
+    "tests": "Bundle: graphic_design outcome, budget constraint, completes_outcome items"
+  },
+  {
+    "query": "màn hình office setup kèm phụ kiện, budget 1500 AUD",
+    "expect_top3": ["MON-27-4K-01", "MON-34-UW-05", "MON-27-QHD-18"],
+    "expect_bundle": ["MON-27-4K-01", "ACC-DOCK-01", "ACC-LIGHT-01"],
+    "tests": "Bundle: office_work outcome, completes_outcome expansion under budget"
+  }
+]

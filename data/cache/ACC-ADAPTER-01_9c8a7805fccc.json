@@ -1,0 +1,55 @@
+{
+  "connection_type": {
+    "value": "USB-C sang DisplayPort 1.4",
+    "source_span": "USB-C sang DisplayPort 1.4",
+    "note": null
+  },
+  "refresh_rate": {
+    "value": [
+      "120Hz",
+      "30Hz"
+    ],
+    "source_span": "120Hz, 8K@30Hz",
+    "note": null
+  },
+  "resolution": {
+    "value": [
+      "4K",
+      "8K"
+    ],
+    "source_span": "4K@120Hz, 8K@30Hz",
+    "note": null
+  },
+  "ports": {
+    "value": [
+      "USB-C",
+      "DisplayPort 1.4",
+      "Thunderbolt 3/4"
+    ],
+    "source_span": "USB-C sang DisplayPort 1.4. Hỗ trợ 4K@120Hz, 8K@30Hz. Tương thích Thunderbolt 3/4.",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi sản xuất",
+    "source_span": "lỗi sản xuất",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "gãy đầu cắm",
+      "kéo đứt dây"
+    ],
+    "source_span": "gãy đầu cắm, kéo đứt dây",
+    "note": null
+  }
+}

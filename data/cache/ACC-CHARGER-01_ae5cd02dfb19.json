@@ -1,0 +1,28 @@
+{
+  "power": {
+    "value": "140W",
+    "source_span": "140W",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "cháy nổ do dùng ổ điện không ổn định",
+      "rơi vỡ",
+      "tự tháo"
+    ],
+    "source_span": "cháy nổ do dùng ổ điện không ổn định, rơi vỡ, tự tháo",
+    "note": null
+  },
+  "use_cases": {
+    "value": "Charging",
+    "source_span": null,
+    "note": "Inferred from 'Sạc GaN'"
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "source_span": "24 tháng",
+      "note": "24 months warranty implies long warranty relative to standard terms"
+    }
+  ]
+}

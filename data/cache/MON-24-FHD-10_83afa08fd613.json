@@ -1,0 +1,17 @@
+{
+  "screen_size": {
+    "value": "24 inch",
+    "source_span": "24 inch",
+    "note": null
+  },
+  "panel_type": {
+    "value": "VA",
+    "source_span": "VA",
+    "note": null
+  },
+  "resolution": {
+    "value": "1920x1080",
+    "source_span": "1920x1080",
+    "note": null
+  }
+}

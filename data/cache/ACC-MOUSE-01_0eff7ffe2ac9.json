@@ -1,0 +1,46 @@
+{
+  "connection_type": {
+    "value": [
+      "wireless 2.4GHz",
+      "Bluetooth 5.3",
+      "USB-C"
+    ],
+    "source_span": "wireless 2.4GHz (polling rate 4000Hz), Bluetooth 5.3, USB-C",
+    "note": null
+  },
+  "ports": {
+    "value": "USB-C",
+    "source_span": "USB-C",
+    "note": null
+  },
+  "power": {
+    "value": "Pin sạc, dùng được 100 giờ",
+    "source_span": "Pin sạc, dùng được 100 giờ",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 24,
+    "source_span": "24 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "switch, cảm biến, pin",
+    "source_span": "switch, cảm biến, pin",
+    "note": null
+  },
+  "return_days": {
+    "value": 7,
+    "source_span": "7 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": "rơi vỡ, đổ nước, tự thay switch",
+    "source_span": "rơi vỡ, đổ nước, tự thay switch",
+    "note": null
+  },
+  "use_cases": {
+    "value": "gaming",
+    "source_span": "gaming",
+    "note": null
+  }
+}

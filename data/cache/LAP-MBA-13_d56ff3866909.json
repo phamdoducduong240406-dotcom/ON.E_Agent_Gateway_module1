@@ -1,0 +1,47 @@
+{
+  "screen_size": {
+    "value": "13.6 inch",
+    "source_span": "13.6 inch",
+    "note": null
+  },
+  "resolution": {
+    "value": "2560x1664",
+    "source_span": "2560x1664",
+    "note": null
+  },
+  "power": {
+    "value": "30W",
+    "source_span": "sạc 30W",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12 tháng",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi phần cứng sản xuất",
+    "source_span": "lỗi phần cứng sản xuất",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14 ngày",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "rơi vỡ",
+      "vào nước",
+      "phần mềm"
+    ],
+    "source_span": "rơi vỡ, vào nước, phần mềm",
+    "note": null
+  },
+  "values": [
+    {
+      "value": "long_warranty",
+      "note": "Inferred from 12 months warranty"
+    }
+  ]
+}

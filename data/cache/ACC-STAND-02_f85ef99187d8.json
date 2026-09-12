@@ -1,0 +1,30 @@
+{
+  "screen_size": {
+    "value": "10\" đến 17\"",
+    "source_span": "10\" đến 17\"",
+    "note": null
+  },
+  "warranty_months": {
+    "value": 12,
+    "source_span": "12",
+    "note": null
+  },
+  "warranty_scope": {
+    "value": "lỗi cơ khí",
+    "source_span": "lỗi cơ khí",
+    "note": null
+  },
+  "return_days": {
+    "value": 14,
+    "source_span": "14",
+    "note": null
+  },
+  "exclusions": {
+    "value": [
+      "gãy do quá tải",
+      "trầy xước thẩm mỹ"
+    ],
+    "source_span": "gãy do quá tải, trầy xước thẩm mỹ",
+    "note": null
+  }
+}
